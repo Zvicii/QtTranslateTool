@@ -7,6 +7,7 @@
 
 class CEn2CnKeyFile;
 class CEn2CnTableModel;
+class CEn2CnThread;
 
 #if defined(gEn2CnMgr)
     #undef gEn2CnMgr
@@ -40,12 +41,22 @@ public:
     bool ExistKey(const QString& strEnKey);
     int GetMaxKeyId();
 
+	//翻译多个目录
+	void TranslatePaths(const QStringList& listPath);
+
 signals:
 
-public slots:
+	public slots :
+
+private slots :
+	void OnThreadFinished();
 
 private:
     static CEn2CnManager* sm_pInstance;
+
+private:
+	//翻译单个目录
+	void TranslatePath(const QString& strPath);
 
 private:
     CEn2CnKeyFile*              m_pKeyFile;         //英文翻译成中文的文件

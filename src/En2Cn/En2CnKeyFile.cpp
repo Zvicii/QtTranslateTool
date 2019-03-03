@@ -68,7 +68,7 @@ void CEn2CnKeyFile::AddKeyInfo(const CEn2CnKeyInfo& keyInfo)
     m_listKey << keyInfo;
 
     //test
-    QString strFile = "G://hulaishun//qt_doc_cn_5.12.0//TranslateTool//src//Data//En2CnKey.json";
+    QString strFile = "G://hulaishun//QtTranslateTool//setup//Data//En2CnKey.json";
 
     WriteToFile(strFile);
 }
@@ -92,7 +92,7 @@ void CEn2CnKeyFile::UpdateKeyInfo(int iKeyId, const QString& strEnKey, const QSt
     }
 
     //test
-    QString strFile = "G://hulaishun//qt_doc_cn_5.12.0//TranslateTool//src//Data//En2CnKey.json";
+    QString strFile = "G://hulaishun//QtTranslateTool//setup//Data//En2CnKey.json";
 
     WriteToFile(strFile);
 }
@@ -108,7 +108,7 @@ void CEn2CnKeyFile::UpdateKeyInfo(const QString& strEnKey, const QString& strCnK
     }
 
     //test
-    QString strFile = "G://hulaishun//qt_doc_cn_5.12.0//TranslateTool//src//Data//En2CnKey.json";
+    QString strFile = "G://hulaishun//QtTranslateTool//setup//Data//En2CnKey.json";
 
     WriteToFile(strFile);
 }
@@ -125,7 +125,7 @@ void CEn2CnKeyFile::DelKeyInfo(int iKeyId)
     }
 
     //test
-    QString strFile = "G://hulaishun//qt_doc_cn_5.12.0//TranslateTool//src//Data//En2CnKey.json";
+    QString strFile = "G://hulaishun//QtTranslateTool//setup//Data//En2CnKey.json";
 
     WriteToFile(strFile);
 }
@@ -142,7 +142,7 @@ void CEn2CnKeyFile::DelKeyInfo(const QString& strEnKey)
     }
 
     //test
-    QString strFile = "G://hulaishun//qt_doc_cn_5.12.0//TranslateTool//src//Data//En2CnKey.json";
+    QString strFile = "G://hulaishun//QtTranslateTool//setup//Data//En2CnKey.json";
 
     WriteToFile(strFile);
 }
@@ -152,7 +152,7 @@ void CEn2CnKeyFile::DelAllKey()
     m_listKey.clear();
 
     //test
-    QString strFile = "G://hulaishun//qt_doc_cn_5.12.0//TranslateTool//src//Data//En2CnKey.json";
+    QString strFile = "G://hulaishun//QtTranslateTool//setup//Data//En2CnKey.json";
 
     WriteToFile(strFile);
 }

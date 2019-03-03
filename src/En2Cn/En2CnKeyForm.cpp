@@ -158,7 +158,7 @@ void CEn2CnKeyForm::OnTranslatePathClicked()
 {
 	QString strPath = QFileDialog::getExistingDirectory(this, QStringLiteral("´ò¿ªÄ¿Â¼"), QCoreApplication::applicationFilePath(), QFileDialog::ShowDirsOnly|QFileDialog::DontResolveSymlinks);
 
-	TranslatePath(strPath);
+	gEn2CnMgr->TranslatePaths(QStringList(strPath));
 }
 
 
@@ -227,10 +227,12 @@ void CEn2CnKeyForm::OnTranslateAllPathClicked()
 	listPath << strPath + "/qtxml";
 	listPath << strPath + "/qtxmlpatterns";
 
-	foreach(QString strSubPath, listPath)
-	{
-		TranslatePath(strSubPath);
-	}
+	//foreach(QString strSubPath, listPath)
+	//{
+	//	TranslatePath(strSubPath);
+	//}
+
+	gEn2CnMgr->TranslatePaths(listPath);
 }
 
 void CEn2CnKeyForm::TranslatePath(const QString& strPath)

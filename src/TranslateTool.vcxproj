@@ -189,11 +189,13 @@
     <ClCompile Include="En2Cn\En2CnManager.cpp" />
     <ClCompile Include="common\JsonFile.cpp" />
     <ClCompile Include="En2Cn\En2CnTableModel.cpp" />
+    <ClCompile Include="En2Cn\En2CnThread.cpp" />
     <ClCompile Include="MainWindow.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="En2Cn\En2CnTableModel.h" />
+    <QtMoc Include="En2Cn\En2CnThread.h" />
     <ClInclude Include="stdafx.h" />
     <QtMoc Include="Cn2Cn\Cn2CnKeyForm.h">
       <ForceInclude Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">stdafx.h;../Cn2Cn/%(Filename)%(Extension)</ForceInclude>

@@ -2,6 +2,7 @@
 
 #include "En2CnKeyFile.h"
 #include "En2CnTableModel.h"
+#include "En2CnThread.h"
 
 //static
 CEn2CnManager* CEn2CnManager::sm_pInstance = nullptr;
@@ -104,5 +105,33 @@ bool CEn2CnManager::ExistKey(const QString& strEnKey)
 int CEn2CnManager::GetMaxKeyId()
 {
     return GetKeyFile()->GetMaxKeyId();
+}
+
+//翻译多个目录
+void CEn2CnManager::TranslatePaths(const QStringList& listPath)
+{
+	foreach(QString strPath, listPath)
+	{
+		TranslatePath(strPath);
+	}
+}
+
+//翻译单个目录
+void CEn2CnManager::TranslatePath(const QString& strPath)
+{
+	CEn2CnThread* pthread = new CEn2CnThread(strPath, this);
+	pthread->StartThread();
+
+	connect(pthread, &CEn2CnThread::finished, this, &CEn2CnManager::OnThreadFinished);
+}
+
+void CEn2CnManager::OnThreadFinished()
+{
+	CEn2CnThread* pthread = dynamic_cast<CEn2CnThread*> (sender());
+	if (nullptr != pthread)
+	{
+		pthread->StopThread();
+		pthread->deleteLater();
+	}
 }
 

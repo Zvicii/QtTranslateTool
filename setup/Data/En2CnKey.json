@@ -2108,5 +2108,35 @@
         "cn_name": "<p>返回高度的引用值。</p>",
         "en_name": "<p>Returns a reference to the height.</p>",
         "key_id": 428
+    },
+    {
+        "cn_name": ">事件系统 | Qt核心 5.12<",
+        "en_name": ">The Event System | Qt Core 5.12<",
+        "key_id": 429
+    },
+    {
+        "cn_name": ">事件是如何传递的<",
+        "en_name": ">How Events are Delivered<",
+        "key_id": 430
+    },
+    {
+        "cn_name": ">事件类型<",
+        "en_name": ">Event Types<",
+        "key_id": 431
+    },
+    {
+        "cn_name": ">事件处理<",
+        "en_name": ">Event Handlers<",
+        "key_id": 433
+    },
+    {
+        "cn_name": ">事件过滤<",
+        "en_name": ">Event Filters<",
+        "key_id": 434
+    },
+    {
+        "cn_name": ">发送事件<",
+        "en_name": ">Sending Events<",
+        "key_id": 435
     }
 ]
