@@ -2138,5 +2138,260 @@
         "cn_name": ">发送事件<",
         "en_name": ">Sending Events<",
         "key_id": 435
+    },
+    {
+        "cn_name": ">顶层和子部件<",
+        "en_name": ">Top-Level and Child Widgets<",
+        "key_id": 436
+    },
+    {
+        "cn_name": ">复合部件<",
+        "en_name": ">Composite Widgets<",
+        "key_id": 437
+    },
+    {
+        "cn_name": ">自定义部件和绘画<",
+        "en_name": ">Custom Widgets and Painting<",
+        "key_id": 438
+    },
+    {
+        "cn_name": ">默认大小和策略<",
+        "en_name": ">Size Hints and Size Policies<",
+        "key_id": 439
+    },
+    {
+        "cn_name": ">事件<",
+        "en_name": ">Events<",
+        "key_id": 440
+    },
+    {
+        "cn_name": ">函数和属性分组<",
+        "en_name": ">Groups of Functions and Properties<",
+        "key_id": 441
+    },
+    {
+        "cn_name": ">部件样式表<",
+        "en_name": ">Widget Style Sheets<",
+        "key_id": 442
+    },
+    {
+        "cn_name": ">透明度和双缓冲<",
+        "en_name": ">Transparency and Double Buffering<",
+        "key_id": 443
+    },
+    {
+        "cn_name": ">创建半透明窗口<",
+        "en_name": ">Creating Translucent Windows<",
+        "key_id": 444
+    },
+    {
+        "cn_name": ">原生部件与异性部件<",
+        "en_name": ">Native Widgets vs Alien Widgets<",
+        "key_id": 445
+    },
+    {
+        "cn_name": ">函数和属性<",
+        "en_name": ">Functions and Properties<",
+        "key_id": 447
+    },
+    {
+        "cn_name": ">上下文<",
+        "en_name": ">Context<",
+        "key_id": 448
+    },
+    {
+        "cn_name": "<p>默认情况下，此属性值为 <code>false</code>.</p>",
+        "en_name": "<p>By default, this property is <code>false</code>.</p>",
+        "key_id": 449
+    },
+    {
+        "cn_name": "<p>默认情况下，此属性的值为0。</p>",
+        "en_name": "<p>By default, this property has a value of 0.</p>",
+        "key_id": 451
+    },
+    {
+        "cn_name": "<p>默认情况下，此属性包含一个空字符串。</p>",
+        "en_name": "<p>By default, this property contains an empty string.</p>",
+        "key_id": 452
+    },
+    {
+        "cn_name": "个属性继承于 <",
+        "en_name": "property inherited from <",
+        "key_id": 453
+    },
+    {
+        "cn_name": "个公共函数继承于 <",
+        "en_name": "public functions inherited from <",
+        "key_id": 454
+    },
+    {
+        "cn_name": "个公共槽函数继承于 <",
+        "en_name": "public slot inherited from <",
+        "key_id": 455
+    },
+    {
+        "cn_name": "个信号继承于 <",
+        "en_name": "signals inherited from <",
+        "key_id": 456
+    },
+    {
+        "cn_name": "个静态公共成员继承于 <",
+        "en_name": "static public members inherited from <",
+        "key_id": 457
+    },
+    {
+        "cn_name": "个保护函数继承于 <",
+        "en_name": "protected functions inherited from <",
+        "key_id": 458
+    },
+    {
+        "cn_name": "个公共变量继承于 <",
+        "en_name": "public variable inherited from <",
+        "key_id": 459
+    },
+    {
+        "cn_name": "个保护变量继承于 <",
+        "en_name": "protected variables inherited from <",
+        "key_id": 460
+    },
+    {
+        "cn_name": "个保护类型继承于 <",
+        "en_name": "protected type inherited from <",
+        "key_id": 461
+    },
+    {
+        "cn_name": "个保护函数继承于 <",
+        "en_name": "protected function inherited from <",
+        "key_id": 462
+    },
+    {
+        "cn_name": "个公共函数继承于 <",
+        "en_name": "public function inherited from <",
+        "key_id": 463
+    },
+    {
+        "cn_name": "个公共槽函数继承于 <",
+        "en_name": "public slots inherited from <",
+        "key_id": 464
+    },
+    {
+        "cn_name": "个属性继承于 <",
+        "en_name": "propertys inherited from <",
+        "key_id": 465
+    },
+    {
+        "cn_name": "个信号继承于 <",
+        "en_name": "signal inherited from <",
+        "key_id": 466
+    },
+    {
+        "cn_name": "个静态公共成员继承于 <",
+        "en_name": "static public member inherited from <",
+        "key_id": 467
+    },
+    {
+        "cn_name": "个公共变量继承于 <",
+        "en_name": "public variables inherited from <",
+        "key_id": 468
+    },
+    {
+        "cn_name": "个保护变量继承于 <",
+        "en_name": "protected variable inherited from <",
+        "key_id": 469
+    },
+    {
+        "cn_name": "个保护类型继承于 <",
+        "en_name": "protected types inherited from <",
+        "key_id": 470
+    },
+    {
+        "cn_name": "个静态保护成员继承于 <",
+        "en_name": "static protected member inherited from <",
+        "key_id": 471
+    },
+    {
+        "cn_name": "个静态保护成员继承于 <",
+        "en_name": "static protected members inherited from <",
+        "key_id": 472
+    },
+    {
+        "cn_name": "<h3>其他继承成员有</h3>",
+        "en_name": "<h3>Additional Inherited Members</h3>",
+        "key_id": 473
+    },
+    {
+        "cn_name": ">直接读取文件<",
+        "en_name": ">Reading Files Directly<",
+        "key_id": 474
+    },
+    {
+        "cn_name": ">使用字节流来读取文件<",
+        "en_name": ">Using Streams to Read Files<",
+        "key_id": 475
+    },
+    {
+        "cn_name": ">平台特别说明<",
+        "en_name": ">Platform Specific Issues<",
+        "key_id": 476
+    },
+    {
+        "cn_name": "<p>如果成功则返回 <code>true</code>；否则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if successful; otherwise returns <code>false</code>.</p>",
+        "key_id": 477
+    },
+    {
+        "cn_name": "个保护槽函数继承于 <",
+        "en_name": "protected slot inherited from <",
+        "key_id": 478
+    },
+    {
+        "cn_name": "个保护槽函数继承于 <",
+        "en_name": "protected slots inherited from <",
+        "key_id": 479
+    },
+    {
+        "cn_name": ">[纯虚保护函数] <",
+        "en_name": ">[pure virtual protected] <",
+        "key_id": 480
+    },
+    {
+        "cn_name": ">[保护函数] <",
+        "en_name": ">[protected] <",
+        "key_id": 481
+    },
+    {
+        "cn_name": ">[虚保护函数] <",
+        "en_name": ">[virtual protected] <",
+        "key_id": 482
+    },
+    {
+        "cn_name": ">[虚函数] <",
+        "en_name": ">[virtual] <",
+        "key_id": 483
+    },
+    {
+        "cn_name": ">[静态函数] <",
+        "en_name": ">[static] <",
+        "key_id": 484
+    },
+    {
+        "cn_name": ">[纯虚函数] <",
+        "en_name": ">[pure virtual] <",
+        "key_id": 485
+    },
+    {
+        "cn_name": ">[重载虚函数] <",
+        "en_name": ">[override virtual] <",
+        "key_id": 486
+    },
+    {
+        "cn_name": ">[重载虚保护函数] <",
+        "en_name": ">[override virtual protected] <",
+        "key_id": 487
+    },
+    {
+        "cn_name": ">[重载虚槽函数] <",
+        "en_name": ">[override virtual slot] <",
+        "key_id": 488
     }
 ]
