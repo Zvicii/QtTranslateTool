@@ -2393,5 +2393,3065 @@
         "cn_name": ">[重载虚槽函数] <",
         "en_name": ">[override virtual slot] <",
         "key_id": 488
+    },
+    {
+        "cn_name": ">Qt图表总览<",
+        "en_name": ">Qt Charts Overview<",
+        "key_id": 489
+    },
+    {
+        "cn_name": ">Qt图表总览 | Qt 图表 5.12<",
+        "en_name": ">Qt Charts Overview |Qt图表5.12<",
+        "key_id": 490
+    },
+    {
+        "cn_name": ">图表类型<",
+        "en_name": ">Chart Types<",
+        "key_id": 491
+    },
+    {
+        "cn_name": ">k线图<",
+        "en_name": ">Candlestick Charts<",
+        "key_id": 492
+    },
+    {
+        "cn_name": ">坐标轴<",
+        "en_name": ">Axes<",
+        "key_id": 493
+    },
+    {
+        "cn_name": ">图例<",
+        "en_name": ">Legend<",
+        "key_id": 494
+    },
+    {
+        "cn_name": ">饼图<",
+        "en_name": ">Pie Charts<",
+        "key_id": 495
+    },
+    {
+        "cn_name": ">柱状/条形图<",
+        "en_name": ">Bar Charts<",
+        "key_id": 496
+    },
+    {
+        "cn_name": ">线图和曲线图<",
+        "en_name": ">Line and Spline Charts<",
+        "key_id": 497
+    },
+    {
+        "cn_name": ">区域图和散点图<",
+        "en_name": ">Area and Scatter Charts<",
+        "key_id": 498
+    },
+    {
+        "cn_name": ">盒须图<",
+        "en_name": ">Box-and-Whiskers Charts<",
+        "key_id": 499
+    },
+    {
+        "cn_name": ">主题<",
+        "en_name": ">Themes<",
+        "key_id": 500
+    },
+    {
+        "cn_name": ">点击和悬浮<",
+        "en_name": ">Clicking and Hovering<",
+        "key_id": 501
+    },
+    {
+        "cn_name": ">缩放和滚动<",
+        "en_name": ">Zooming and Scrolling<",
+        "key_id": 502
+    },
+    {
+        "cn_name": ">向下钻取数据<",
+        "en_name": ">Drilling Down into Data<",
+        "key_id": 503
+    },
+    {
+        "cn_name": ">动态绘制数据<",
+        "en_name": ">Drawing Data Dynamically<",
+        "key_id": 504
+    },
+    {
+        "cn_name": ">图表交互<",
+        "en_name": ">Interacting with Charts<",
+        "key_id": 505
+    },
+    {
+        "cn_name": ">极地图<",
+        "en_name": ">Polar Charts<",
+        "key_id": 506
+    },
+    {
+        "cn_name": ">柱状/条形图<",
+        "en_name": ">Bar charts<",
+        "key_id": 507
+    },
+    {
+        "cn_name": ">饼图<",
+        "en_name": ">Pie charts<",
+        "key_id": 508
+    },
+    {
+        "cn_name": ">折线图和曲线图<",
+        "en_name": ">Line and Spline charts<",
+        "key_id": 509
+    },
+    {
+        "cn_name": ">区域图和散点图<",
+        "en_name": ">Area and Scatter charts<",
+        "key_id": 510
+    },
+    {
+        "cn_name": ">盒须图<",
+        "en_name": ">Box-and-Whiskers charts<",
+        "key_id": 511
+    },
+    {
+        "cn_name": ">k线图<",
+        "en_name": ">Candlestick charts<",
+        "key_id": 512
+    },
+    {
+        "cn_name": ">盒须图<",
+        "en_name": ">Box-and-whiskers charts<",
+        "key_id": 513
+    },
+    {
+        "cn_name": ">极地图<",
+        "en_name": ">Polar charts<",
+        "key_id": 514
+    },
+    {
+        "cn_name": ">区域图和散点图<",
+        "en_name": ">Area and scatter charts<",
+        "key_id": 515
+    },
+    {
+        "cn_name": ">折线图和曲线图<",
+        "en_name": ">Line and spline charts<",
+        "key_id": 516
+    },
+    {
+        "cn_name": ">折线图<",
+        "en_name": ">A line chart.<",
+        "key_id": 517
+    },
+    {
+        "cn_name": ">区域图<",
+        "en_name": ">An area chart.<",
+        "key_id": 518
+    },
+    {
+        "cn_name": ">垂直柱形图<",
+        "en_name": ">A vertical bar chart.<",
+        "key_id": 519
+    },
+    {
+        "cn_name": ">饼图<",
+        "en_name": ">A pie chart.<",
+        "key_id": 520
+    },
+    {
+        "cn_name": ">散点图<",
+        "en_name": ">A scatter chart.<",
+        "key_id": 521
+    },
+    {
+        "cn_name": ">曲线图<",
+        "en_name": ">A spline chart.<",
+        "key_id": 522
+    },
+    {
+        "cn_name": ">水平柱形图<",
+        "en_name": ">A horizontal bar chart.<",
+        "key_id": 523
+    },
+    {
+        "cn_name": ">水平百分比柱形图<",
+        "en_name": ">A horizontal percent bar chart.<",
+        "key_id": 524
+    },
+    {
+        "cn_name": ">盒须图<",
+        "en_name": ">A box plot chart.<",
+        "key_id": 525
+    },
+    {
+        "cn_name": ">K线图<",
+        "en_name": ">A candlestick chart.<",
+        "key_id": 526
+    },
+    {
+        "cn_name": ">垂直百分比柱形图<",
+        "en_name": ">A vertical percent bar chart.<",
+        "key_id": 527
+    },
+    {
+        "cn_name": ">垂直堆积柱形图<",
+        "en_name": ">A vertical stacked bar chart.<",
+        "key_id": 528
+    },
+    {
+        "cn_name": ">水平堆积柱形图<",
+        "en_name": ">A horizontal stacked bar chart.<",
+        "key_id": 529
+    },
+    {
+        "cn_name": "个属性继承于 <",
+        "en_name": "properties inherited from <",
+        "key_id": 530
+    },
+    {
+        "cn_name": "<p>默认值为 <code>false</code>。</p>",
+        "en_name": "<p>The default value is <code>false</code>.</p>",
+        "key_id": 531
+    },
+    {
+        "cn_name": "<p>默认值为 <code>true</code>。</p>",
+        "en_name": "<p>The default value is <code>true</code>.</p>",
+        "key_id": 532
+    },
+    {
+        "cn_name": "<p>默认值为 <code>true</code>。</p>",
+        "en_name": "<p>By default, <code>true</code>.</p>",
+        "key_id": 533
+    },
+    {
+        "cn_name": "<p>默认值为 <code>false</code>。</p>",
+        "en_name": "<p>By default, <code>false</code>.</p>",
+        "key_id": 534
+    },
+    {
+        "cn_name": ">运行样例<",
+        "en_name": ">Running the Example<",
+        "key_id": 535
+    },
+    {
+        "cn_name": ">创建折线图<",
+        "en_name": ">Creating Line Charts<",
+        "key_id": 536
+    },
+    {
+        "cn_name": ">Qt图表样例<",
+        "en_name": ">Qt Charts Examples<",
+        "key_id": 537
+    },
+    {
+        "cn_name": ">柱形图样例<",
+        "en_name": ">BarChart Example<",
+        "key_id": 538
+    },
+    {
+        "cn_name": ">柱形图样例 |",
+        "en_name": ">BarChart Example |",
+        "key_id": 539
+    },
+    {
+        "cn_name": ">创建柱形图<",
+        "en_name": ">Creating Bar Charts<",
+        "key_id": 540
+    },
+    {
+        "cn_name": "<p>此属性的默认值为 <code>false</code> 。</p>",
+        "en_name": "<p>This property is <code>false</code> by default.</p>",
+        "key_id": 541
+    },
+    {
+        "cn_name": "<p>此属性的默认值为 <code>true</code> 。</p>",
+        "en_name": "<p>This property is <code>true</code> by default.</p>",
+        "key_id": 542
+    },
+    {
+        "cn_name": ">[槽函数] <",
+        "en_name": ">[slot] <",
+        "key_id": 543
+    },
+    {
+        "cn_name": "<p>默认值为-1 (无效的映射)。</p>",
+        "en_name": "<p>The default value is -1 (invalid mapping).</p>",
+        "key_id": 544
+    },
+    {
+        "cn_name": "<p><b>注意：</b> 此通知信号来自于属性 <",
+        "en_name": "<p><b>Note:</b> Notifier signal for property <",
+        "key_id": 545
+    },
+    {
+        "cn_name": "<p><b>注意：</b> 此获取函数来自于属性 <",
+        "en_name": "<p><b>Note:</b> Getter function for property <",
+        "key_id": 546
+    },
+    {
+        "cn_name": "<p><b>注意：</b> 此设置函数来自于属性 <",
+        "en_name": "<p><b>Note:</b> Setter function for property <",
+        "key_id": 547
+    },
+    {
+        "cn_name": "<p>返回坐标轴的类型。</p>",
+        "en_name": "<p>Returns the type of the axis.</p>",
+        "key_id": 548
+    },
+    {
+        "cn_name": ">Qt图表 | 商业版 或 GPLv3版<",
+        "en_name": ">Qt Charts | Commercial or GPLv3<",
+        "key_id": 549
+    },
+    {
+        "cn_name": "<p>重新实现了父类函数接口 <a",
+        "en_name": "<p>Reimplemented from <a",
+        "key_id": 550
+    },
+    {
+        "cn_name": ">API参考<",
+        "en_name": ">API Reference<",
+        "key_id": 551
+    },
+    {
+        "cn_name": "<p>有关更多信息，请查看 <a",
+        "en_name": "<p>For more information, see <a",
+        "key_id": 552
+    },
+    {
+        "cn_name": "<p>拷贝复制函数。</p>",
+        "en_name": "<p>Copy-assignment operator.</p>",
+        "key_id": 553
+    },
+    {
+        "cn_name": "<p>默认值为1.0。</p>",
+        "en_name": "<p>The default value is 1.0&#x2e;</p>",
+        "key_id": 554
+    },
+    {
+        "cn_name": "<p>默认值为0。</p>",
+        "en_name": "<p>The default value is zero.</p>",
+        "key_id": 555
+    },
+    {
+        "cn_name": "<p>默认值为 <code>0</code>。</p>",
+        "en_name": "<p>The default value is <code>0</code>.</p>",
+        "key_id": 556
+    },
+    {
+        "cn_name": "<p>默认值为 <code>1</code>。</p>",
+        "en_name": "<p>The default value is <code>1</code>.</p>",
+        "key_id": 557
+    },
+    {
+        "cn_name": ">信号<",
+        "en_name": ">Signal<",
+        "key_id": 558
+    },
+    {
+        "cn_name": ">触发时机<",
+        "en_name": ">Emitted when<",
+        "key_id": 559
+    },
+    {
+        "cn_name": ">键盘<",
+        "en_name": ">Keys<",
+        "key_id": 560
+    },
+    {
+        "cn_name": ">功能<",
+        "en_name": ">Functionality<",
+        "key_id": 561
+    },
+    {
+        "cn_name": ">[虚保护槽函数] <",
+        "en_name": ">[virtual protected slot] <",
+        "key_id": 562
+    },
+    {
+        "cn_name": ">[虚槽函数] <",
+        "en_name": ">[virtual slot] <",
+        "key_id": 563
+    },
+    {
+        "cn_name": "<p>在基类中，这是一个纯虚函数。</p>",
+        "en_name": "<p>In the base class this is a pure virtual function.</p>",
+        "key_id": 564
+    },
+    {
+        "cn_name": "<p>此属性的默认值为enabled。</p>",
+        "en_name": "<p>By default, this property is enabled.</p>",
+        "key_id": 565
+    },
+    {
+        "cn_name": "<p>默认值为false。</p>",
+        "en_name": "<p>The default value is false.</p>",
+        "key_id": 566
+    },
+    {
+        "cn_name": "<p>默认值为 <",
+        "en_name": "<p>The default value is <",
+        "key_id": 567
+    },
+    {
+        "cn_name": "<p>默认情况下，此属性被设置为false。</p>",
+        "en_name": "<p>By default, this property is set to false.</p>",
+        "key_id": 568
+    },
+    {
+        "cn_name": ">基本用法<",
+        "en_name": ">Basic Usage<",
+        "key_id": 569
+    },
+    {
+        "cn_name": ">迭代完成<",
+        "en_name": ">Iterating Through Completions<",
+        "key_id": 570
+    },
+    {
+        "cn_name": ">完成模型<",
+        "en_name": ">The Completion Model<",
+        "key_id": 571
+    },
+    {
+        "cn_name": ">处理树模型<",
+        "en_name": ">Handling Tree Models<",
+        "key_id": 573
+    },
+    {
+        "cn_name": "<p>默认值为 <a",
+        "en_name": "<p>The default is <a",
+        "key_id": 574
+    },
+    {
+        "cn_name": "<p>默认角色为 <a",
+        "en_name": "<p>The default role is <a",
+        "key_id": 575
+    },
+    {
+        "cn_name": "<p>默认模式为 <a",
+        "en_name": "<p>The default mode is <",
+        "key_id": 576
+    },
+    {
+        "cn_name": "<p>默认值为true。</p>",
+        "en_name": "<p>The default is true.</p>",
+        "key_id": 577
+    },
+    {
+        "cn_name": "<p>返回当前行的索引值。</p>",
+        "en_name": "<p>Returns the current row.</p>",
+        "key_id": 578
+    },
+    {
+        "cn_name": "<p>返回当前列的索引值。</p>",
+        "en_name": "<p>Returns the current column.</p>",
+        "key_id": 579
+    },
+    {
+        "cn_name": ">父与子<",
+        "en_name": ">Parents and Children<",
+        "key_id": 580
+    },
+    {
+        "cn_name": "<p>此属性的默认值为 <code>true</code>。</p>",
+        "en_name": "<p>By default, this property is <code>true</code>.</p>",
+        "key_id": 581
+    },
+    {
+        "cn_name": "<p>此属性的默认值为 <code>false</code>。</p>",
+        "en_name": "<p>By default, this property is <code>false</code>.</p>",
+        "key_id": 582
+    },
+    {
+        "cn_name": "<p>只要角度发生变化，就会触发该信号。</p>",
+        "en_name": "<p>This signal is emitted whenever the angle has changed.</p>",
+        "key_id": 583
+    },
+    {
+        "cn_name": "<p>只要对象的坐标轴发生变化，就会触发该信号。</p>",
+        "en_name": "<p>This signal is emitted whenever the axis of the object changes.</p>",
+        "key_id": 584
+    },
+    {
+        "cn_name": "<p>只要方向发生变化，就会触发该信号。</p>",
+        "en_name": "<p>This signal is emitted whenever the origin has changed.</p>",
+        "key_id": 585
+    },
+    {
+        "cn_name": "<p>只要选中内容发生变化，就会触发该信号。</p>",
+        "en_name": "<p>This signal is emitted whenever the selection changes.</p>",
+        "key_id": 586
+    },
+    {
+        "cn_name": "<p>返回选中内容的长度。</p>",
+        "en_name": "<p>Returns the length of the selection.</p>",
+        "key_id": 587
+    },
+    {
+        "cn_name": "<p>只要窗口图标发送变化，就会触发该信号，并将新图标 <i>icon</i>作为参数。</p>",
+        "en_name": "<p>This signal is emitted when the window's icon has changed, with the new <i>icon</i> as an argument.</p>",
+        "key_id": 588
+    },
+    {
+        "cn_name": "<p>只要窗口标题发送变化，就会触发该信号，并将新标题 <i>title</i>作为参数。</p>",
+        "en_name": "<p>This signal is emitted when the window's title has changed, with the new <i>title</i> as an argument.</p>",
+        "key_id": 589
+    },
+    {
+        "cn_name": "<p><b>注意：</b> 此函数是 <a href=\"../qtdoc/threads-reentrancy.html\">线程安全的</a>。</p>",
+        "en_name": "<p><b>Note:</b> This function is <a href=\"../qtdoc/threads-reentrancy.html\">thread-safe</a>.</p>",
+        "key_id": 590
+    },
+    {
+        "cn_name": "<p>返回事件类型。</p>",
+        "en_name": "<p>Returns the event type.</p>",
+        "key_id": 591
+    },
+    {
+        "cn_name": "<p><b>注意： </b>这是个私有信号，它可用于信号连接，但是不能由用户触发。</p>",
+        "en_name": "<p><b>Note: </b>This is a private signal. It can be used in signal connections but cannot be emitted by the user.</p>",
+        "key_id": 592
+    },
+    {
+        "cn_name": ">保护槽函数<",
+        "en_name": ">Protected Slots<",
+        "key_id": 593
+    },
+    {
+        "cn_name": "<p>开始列的插入操作。</p>",
+        "en_name": "<p>Begins a column insertion operation.</p>",
+        "key_id": 594
+    },
+    {
+        "cn_name": "<p>开始行的插入操作。</p>",
+        "en_name": "<p>Begins a row insertion operation.</p>",
+        "key_id": 595
+    },
+    {
+        "cn_name": "<p>开始列的移动操作。</p>",
+        "en_name": "<p>Begins a column move operation.</p>",
+        "key_id": 596
+    },
+    {
+        "cn_name": "<p>开始行的移动操作。</p>",
+        "en_name": "<p>Begins a row move operation.</p>",
+        "key_id": 597
+    },
+    {
+        "cn_name": "<p>开始列的删除操作。</p>",
+        "en_name": "<p>Begins a column removal operation.</p>",
+        "key_id": 598
+    },
+    {
+        "cn_name": "<p>开始行的删除操作。</p>",
+        "en_name": "<p>Begins a row removal operation.</p>",
+        "key_id": 599
+    },
+    {
+        "cn_name": "<p>开始模型的重置操作。</p>",
+        "en_name": "<p>Begins a model reset operation.</p>",
+        "key_id": 600
+    },
+    {
+        "cn_name": "<p>结束列的插入操作。</p>",
+        "en_name": "<p>Ends a column insertion operation.</p>",
+        "key_id": 601
+    },
+    {
+        "cn_name": "<p>结束行的插入操作。</p>",
+        "en_name": "<p>Ends a row insertion operation.</p>",
+        "key_id": 602
+    },
+    {
+        "cn_name": "<p>结束列的移动操作。</p>",
+        "en_name": "<p>Ends a column move operation.</p>",
+        "key_id": 603
+    },
+    {
+        "cn_name": "<p>结束行的移动操作。</p>",
+        "en_name": "<p>Ends a row move operation.</p>",
+        "key_id": 604
+    },
+    {
+        "cn_name": "<p>结束列的删除操作。</p>",
+        "en_name": "<p>Ends a column removal operation.</p>",
+        "key_id": 605
+    },
+    {
+        "cn_name": "<p>结束行的删除操作。</p>",
+        "en_name": "<p>Ends a row removal operation.</p>",
+        "key_id": 606
+    },
+    {
+        "cn_name": "<p>结束模型的重置操作。</p>",
+        "en_name": "<p>Completes a model reset operation.</p>",
+        "key_id": 607
+    },
+    {
+        "cn_name": "<p>基类实现未做任何处理，直接返回了 <code>false</code>。</p>",
+        "en_name": "<p>The base class implementation does nothing and returns <code>false</code>.</p>",
+        "key_id": 608
+    },
+    {
+        "cn_name": "<p>基类实现未做任何处理。</p>",
+        "en_name": "<p>The base class implementation does nothing.</p>",
+        "key_id": 609
+    },
+    {
+        "cn_name": ">[保护槽函数] <",
+        "en_name": ">[protected slot] <",
+        "key_id": 610
+    },
+    {
+        "cn_name": ">部件类<",
+        "en_name": ">The Widget Classes<",
+        "key_id": 611
+    },
+    {
+        "cn_name": ">基础部件类<",
+        "en_name": ">Basic Widget Classes<",
+        "key_id": 612
+    },
+    {
+        "cn_name": ">高级部件类<",
+        "en_name": ">Advanced Widget Classes<",
+        "key_id": 613
+    },
+    {
+        "cn_name": ">抽象部件类<",
+        "en_name": ">Abstract Widget Classes<",
+        "key_id": 614
+    },
+    {
+        "cn_name": ">容器部件类<",
+        "en_name": ">Organizer Widget Classes<",
+        "key_id": 615
+    },
+    {
+        "cn_name": ">图形视图类<",
+        "en_name": ">Graphics View Classes<",
+        "key_id": 616
+    },
+    {
+        "cn_name": ">主窗口和相关类<",
+        "en_name": ">Main Window and Related Classes<",
+        "key_id": 617
+    },
+    {
+        "cn_name": ">部件外观和样式相关类<",
+        "en_name": ">Widget Appearance and Style-Related Classes<",
+        "key_id": 618
+    },
+    {
+        "cn_name": ">布局类<",
+        "en_name": ">Layout Classes<",
+        "key_id": 619
+    },
+    {
+        "cn_name": ">模型类<",
+        "en_name": ">Model Classes<",
+        "key_id": 620
+    },
+    {
+        "cn_name": ">使用模型和视图<",
+        "en_name": ">Using Models and Views<",
+        "key_id": 621
+    },
+    {
+        "cn_name": ">模型/视图编程简介<",
+        "en_name": ">Introduction to Model/View Programming<",
+        "key_id": 622
+    },
+    {
+        "cn_name": ">模型/视图架构<",
+        "en_name": ">The model/view architecture<",
+        "key_id": 623
+    },
+    {
+        "cn_name": ">使用现有模型的视图<",
+        "en_name": ">Using views with an existing model<",
+        "key_id": 624
+    },
+    {
+        "cn_name": ">基本概念<",
+        "en_name": ">Basic concepts<",
+        "key_id": 625
+    },
+    {
+        "cn_name": ">使用模型索引<",
+        "en_name": ">Using model indexes<",
+        "key_id": 626
+    },
+    {
+        "cn_name": ">使用现有视图<",
+        "en_name": ">Using an existing view<",
+        "key_id": 627
+    },
+    {
+        "cn_name": ">委托类<",
+        "en_name": ">Delegate Classes<",
+        "key_id": 628
+    },
+    {
+        "cn_name": ">使用选择模型<",
+        "en_name": ">Using a selection model<",
+        "key_id": 629
+    },
+    {
+        "cn_name": ">创建新模型<",
+        "en_name": ">Creating New Models<",
+        "key_id": 630
+    },
+    {
+        "cn_name": ">设计模型<",
+        "en_name": ">Designing a model<",
+        "key_id": 631
+    },
+    {
+        "cn_name": ">只读访问<",
+        "en_name": ">Read-Only access<",
+        "key_id": 632
+    },
+    {
+        "cn_name": ">视图类<",
+        "en_name": ">View Classes<",
+        "key_id": 633
+    },
+    {
+        "cn_name": ">模型/视图类<",
+        "en_name": ">The Model/View Classes<",
+        "key_id": 634
+    },
+    {
+        "cn_name": ">相关样例<",
+        "en_name": ">Related Examples<",
+        "key_id": 635
+    },
+    {
+        "cn_name": ">大量数据的性能优化<",
+        "en_name": ">Performance optimization for large amounts of data<",
+        "key_id": 636
+    },
+    {
+        "cn_name": ">代理模型<",
+        "en_name": ">Proxy Models<",
+        "key_id": 637
+    },
+    {
+        "cn_name": ">使用代理模型<",
+        "en_name": ">Using proxy models<",
+        "key_id": 638
+    },
+    {
+        "cn_name": ">自定义代理模型<",
+        "en_name": ">Customizing proxy models<",
+        "key_id": 639
+    },
+    {
+        "cn_name": ">模型子类化参考<",
+        "en_name": ">Model Subclassing Reference<",
+        "key_id": 640
+    },
+    {
+        "cn_name": ">项数据处理<",
+        "en_name": ">Item data handling<",
+        "key_id": 641
+    },
+    {
+        "cn_name": ">模型索引的导航和创建<",
+        "en_name": ">Navigation and model index creation<",
+        "key_id": 642
+    },
+    {
+        "cn_name": ">模型/视图的编程<",
+        "en_name": ">Model/View Programming<",
+        "key_id": 644
+    },
+    {
+        "cn_name": ">简单委托<",
+        "en_name": ">A simple delegate<",
+        "key_id": 645
+    },
+    {
+        "cn_name": ">进一步读取<",
+        "en_name": ">Further reading<",
+        "key_id": 646
+    },
+    {
+        "cn_name": ">概念<",
+        "en_name": ">Concepts<",
+        "key_id": 647
+    },
+    {
+        "cn_name": ">选择项的处理<",
+        "en_name": ">Handling selections of items<",
+        "key_id": 648
+    },
+    {
+        "cn_name": ">使用现有委托<",
+        "en_name": ">Using an existing delegate<",
+        "key_id": 649
+    },
+    {
+        "cn_name": ">可编辑的模型<",
+        "en_name": ">An editable model<",
+        "key_id": 650
+    },
+    {
+        "cn_name": ">下一步<",
+        "en_name": ">Next steps<",
+        "key_id": 651
+    },
+    {
+        "cn_name": ">项目视图的便利类<",
+        "en_name": ">Item View Convenience Classes<",
+        "key_id": 652
+    },
+    {
+        "cn_name": ">常用功能<",
+        "en_name": ">Common features<",
+        "key_id": 653
+    },
+    {
+        "cn_name": ">处理项目视图中的选择<",
+        "en_name": ">Handling Selections in Item Views<",
+        "key_id": 654
+    },
+    {
+        "cn_name": ">使用模型/视图类<",
+        "en_name": ">Using model/view classes<",
+        "key_id": 655
+    },
+    {
+        "cn_name": ">使用便利视图<",
+        "en_name": ">Using convenience views<",
+        "key_id": 656
+    },
+    {
+        "cn_name": ">项目视图中使用拖放<",
+        "en_name": ">Using Drag and Drop with Item Views<",
+        "key_id": 657
+    },
+    {
+        "cn_name": ">只读的样例模型<",
+        "en_name": ">A read-only example model<",
+        "key_id": 658
+    },
+    {
+        "cn_name": ">Qt中包含的两个模型<",
+        "en_name": ">Two models included in Qt<",
+        "key_id": 659
+    },
+    {
+        "cn_name": ">支持拖放和处理MIME类型<",
+        "en_name": ">Drag and drop support and MIME type handling<",
+        "key_id": 660
+    },
+    {
+        "cn_name": ">列表部件<",
+        "en_name": ">List widgets<",
+        "key_id": 661
+    },
+    {
+        "cn_name": ">树形部件<",
+        "en_name": ">Tree widgets<",
+        "key_id": 662
+    },
+    {
+        "cn_name": ">表格部件<",
+        "en_name": ">Table widgets<",
+        "key_id": 663
+    },
+    {
+        "cn_name": "<h4 >排序</h4>",
+        "en_name": "<h4 >Sorting</h4>",
+        "key_id": 664
+    },
+    {
+        "cn_name": "<h4 >视图</h4>",
+        "en_name": "<h4 >Views</h4>",
+        "key_id": 665
+    },
+    {
+        "cn_name": "<h4 >委托</h4>",
+        "en_name": "<h4 >Delegates</h4>",
+        "key_id": 666
+    },
+    {
+        "cn_name": "<h4 >模型</h4>",
+        "en_name": "<h4 >Models</h4>",
+        "key_id": 667
+    },
+    {
+        "cn_name": "<h4 >便利类</h4>",
+        "en_name": "<h4 >Convenience classes</h4>",
+        "key_id": 668
+    },
+    {
+        "cn_name": "<h4 >模型索引</h4>",
+        "en_name": "<h4 >Model indexes</h4>",
+        "key_id": 669
+    },
+    {
+        "cn_name": "<h4 >行和列</h4>",
+        "en_name": "<h4 >Rows and columns</h4>",
+        "key_id": 670
+    },
+    {
+        "cn_name": "<h4 >项目的父亲</h4>",
+        "en_name": "<h4 >Parents of items</h4>",
+        "key_id": 671
+    },
+    {
+        "cn_name": "<h4 >项目的角色</h4>",
+        "en_name": "<h4 >Item roles</h4>",
+        "key_id": 672
+    },
+    {
+        "cn_name": "<h4 >使用模型</h4>",
+        "en_name": "<h4 >Using a model</h4>",
+        "key_id": 673
+    },
+    {
+        "cn_name": "<h4 >使用模型的多个视图</h4>",
+        "en_name": "<h4 >Using multiple views of a model</h4>",
+        "key_id": 674
+    },
+    {
+        "cn_name": "<h4 >在视图之间共享选择</h4>",
+        "en_name": "<h4 >Sharing selections among views</h4>",
+        "key_id": 675
+    },
+    {
+        "cn_name": "<h4 >提供编辑器</h4>",
+        "en_name": "<h4 >Providing an editor</h4>",
+        "key_id": 676
+    },
+    {
+        "cn_name": "<h4 >提交数据到模型</h4>",
+        "en_name": "<h4 >Submitting data to the model</h4>",
+        "key_id": 677
+    },
+    {
+        "cn_name": "<h4 >更新编辑器尺寸</h4>",
+        "en_name": "<h4 >Updating the editor's geometry</h4>",
+        "key_id": 678
+    },
+    {
+        "cn_name": "<h4 >编辑提示</h4>",
+        "en_name": "<h4 >Editing hints</h4>",
+        "key_id": 679
+    },
+    {
+        "cn_name": "<h4 >当前项和选择项</h4>",
+        "en_name": "<h4 >Current item and selected items</h4>",
+        "key_id": 680
+    },
+    {
+        "cn_name": "<h4 >选择项</h4>",
+        "en_name": "<h4 >Selecting items</h4>",
+        "key_id": 681
+    },
+    {
+        "cn_name": "<h4 >读取选择状态</h4>",
+        "en_name": "<h4 >Reading the selection state</h4>",
+        "key_id": 682
+    },
+    {
+        "cn_name": "<h4 >更新选择</h4>",
+        "en_name": "<h4 >Updating a selection</h4>",
+        "key_id": 683
+    },
+    {
+        "cn_name": "<h4 >选择模型中的所有项</h4>",
+        "en_name": "<h4 >Selecting all items in a model</h4>",
+        "key_id": 684
+    },
+    {
+        "cn_name": "<h4 >模型的尺寸</h4>",
+        "en_name": "<h4 >Dimensions of the model</h4>",
+        "key_id": 685
+    },
+    {
+        "cn_name": "<h4 >模型的表头及其数据</h4>",
+        "en_name": "<h4 >Model headers and data</h4>",
+        "key_id": 686
+    },
+    {
+        "cn_name": "<h4 >使模型可编辑</h4>",
+        "en_name": "<h4 >Making the model editable</h4>",
+        "key_id": 687
+    },
+    {
+        "cn_name": "<h4 >插入和删除行</h4>",
+        "en_name": "<h4 >Inserting and removing rows</h4>",
+        "key_id": 688
+    },
+    {
+        "cn_name": "<h4 >隐藏项</h4>",
+        "en_name": "<h4 >Hidden items</h4>",
+        "key_id": 689
+    },
+    {
+        "cn_name": "<h4 >选择</h4>",
+        "en_name": "<h4 >Selections</h4>",
+        "key_id": 690
+    },
+    {
+        "cn_name": "<h4 >查询</h4>",
+        "en_name": "<h4 >Searching</h4>",
+        "key_id": 691
+    },
+    {
+        "cn_name": "<h4 >启用项目拖放</h4>",
+        "en_name": "<h4 >Enabling drag and drop for items</h4>",
+        "key_id": 692
+    },
+    {
+        "cn_name": "<h4 >编码导出数据</h4>",
+        "en_name": "<h4 >Encoding exported data</h4>",
+        "key_id": 693
+    },
+    {
+        "cn_name": "<h4 >插入已删除数据到模型</h4>",
+        "en_name": "<h4 >Inserting dropped data into a model</h4>",
+        "key_id": 694
+    },
+    {
+        "cn_name": "<h4 >解码导入数据</h4>",
+        "en_name": "<h4 >Decoding imported data</h4>",
+        "key_id": 695
+    },
+    {
+        "cn_name": "<h4 >自定义排序模型</h4>",
+        "en_name": "<h4 >Custom sorting models</h4>",
+        "key_id": 696
+    },
+    {
+        "cn_name": "<h4 >自定义过滤模型</h4>",
+        "en_name": "<h4 >Custom filtering models</h4>",
+        "key_id": 697
+    },
+    {
+        "cn_name": "<h4 >项可编辑</h4>",
+        "en_name": "<h4 >Editable items</h4>",
+        "key_id": 698
+    },
+    {
+        "cn_name": "<h4 >父与子</h4>",
+        "en_name": "<h4 >Parents and children</h4>",
+        "key_id": 699
+    },
+    {
+        "cn_name": "<h4 >MIME数据</h4>",
+        "en_name": "<h4 >MIME data</h4>",
+        "key_id": 700
+    },
+    {
+        "cn_name": "<h4 >接收放置的数据</h4>",
+        "en_name": "<h4 >Accepting dropped data</h4>",
+        "key_id": 701
+    },
+    {
+        "cn_name": ">移动迭代器到列表最前面(位于首个元素之前)<",
+        "en_name": ">Moves the iterator to the front of the list (before the first item)<",
+        "key_id": 702
+    },
+    {
+        "cn_name": ">移动迭代器到列表最后面(位于个最后元素之后)<",
+        "en_name": ">Moves the iterator to the back of the list (after the last item)<",
+        "key_id": 703
+    },
+    {
+        "cn_name": ">从当前所指迭代器的位置返回下一个项和迭代器<",
+        "en_name": ">Returns the next item and advances the iterator by one position<",
+        "key_id": 704
+    },
+    {
+        "cn_name": ">只返回下一项，不移动迭代器<",
+        "en_name": ">Returns the next item without moving the iterator<",
+        "key_id": 705
+    },
+    {
+        "cn_name": ">只返回前一项，不移动迭代器<",
+        "en_name": ">Returns the previous item without moving the iterator<",
+        "key_id": 706
+    },
+    {
+        "cn_name": ">从当前所指迭代器的位置返回前一个项和迭代器<",
+        "en_name": ">Returns the previous item and moves the iterator back by one position<",
+        "key_id": 707
+    },
+    {
+        "cn_name": ">若迭代器不是位于列表末尾，则返回 <code>true</code> <",
+        "en_name": ">Returns <code>true</code> if the iterator isn't at the back of the list<",
+        "key_id": 708
+    },
+    {
+        "cn_name": ">若迭代器不是位于列表头部，则返回 <code>true</code> <",
+        "en_name": ">Returns <code>true</code> if the iterator isn't at the front of the list<",
+        "key_id": 709
+    },
+    {
+        "cn_name": ">更多成员<",
+        "en_name": ">More Members<",
+        "key_id": 710
+    },
+    {
+        "cn_name": ">有关使用Qt容器的更多信息<",
+        "en_name": ">More Information on Using Qt Containers<",
+        "key_id": 711
+    },
+    {
+        "cn_name": ">Qt风格的同义词<",
+        "en_name": ">Qt-style synonym for <",
+        "key_id": 712
+    },
+    {
+        "cn_name": "<p>ptrdiff_t的类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for ptrdiff_t. Provided for STL compatibility.</p>",
+        "key_id": 713
+    },
+    {
+        "cn_name": "<p>T *的指针类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for T *. Provided for STL compatibility.</p>",
+        "key_id": 714
+    },
+    {
+        "cn_name": "<p>T &amp;的引用类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for T &amp;. Provided for STL compatibility.</p>",
+        "key_id": 715
+    },
+    {
+        "cn_name": "<p>int的类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for int. Provided for STL compatibility.</p>",
+        "key_id": 716
+    },
+    {
+        "cn_name": "<p>T的值类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for T. Provided for STL compatibility.</p>",
+        "key_id": 717
+    },
+    {
+        "cn_name": "<p>const T *的常量指针类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for const T *. Provided for STL compatibility.</p>",
+        "key_id": 718
+    },
+    {
+        "cn_name": "<p>const T &amp;的常量引用类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for const T &amp;. Provided for STL compatibility.</p>",
+        "key_id": 719
+    },
+    {
+        "cn_name": "<p>构造函数，实现了一个空列表。</p>",
+        "en_name": "<p>Constructs an empty list.</p>",
+        "key_id": 720
+    },
+    {
+        "cn_name": "<p>在列表尾部插入一个新值 <i>value</i>。</p>",
+        "en_name": "<p>Inserts <i>value</i> at the end of the list.</p>",
+        "key_id": 721
+    },
+    {
+        "cn_name": "<p>此函数用于STL风格的兼容性，它相当于 <",
+        "en_name": "<p>This function is provided for STL compatibility. It is equivalent to <",
+        "key_id": 722
+    },
+    {
+        "cn_name": "<p>删除列表中的所有元素项。</p>",
+        "en_name": "<p>Removes all the items in the list.</p>",
+        "key_id": 723
+    },
+    {
+        "cn_name": "<p>该函数要求值类型的列表元素实现了 <",
+        "en_name": "<p>This function requires the value type to have an implementation of <",
+        "key_id": 724
+    },
+    {
+        "cn_name": "<p>从列表中删除最后一项并返回它。</p>",
+        "en_name": "<p>Removes the last item in the list and returns it.</p>",
+        "key_id": 725
+    },
+    {
+        "cn_name": "<p>从列表中删除第一项并返回它。</p>",
+        "en_name": "<p>Removes the first item in the list and returns it.</p>",
+        "key_id": 726
+    },
+    {
+        "cn_name": "<p>该函数要求值类型的列表元素实现了 <",
+        "en_name": "<p>This function requires the value type to implement <",
+        "key_id": 727
+    },
+    {
+        "cn_name": "<p>仅当编译器支持C++11初始化列表时，该构造函数才有效。<",
+        "en_name": "<p>This constructor is only enabled if the compiler supports C++11 initializer lists.<",
+        "key_id": 728
+    },
+    {
+        "cn_name": "<p>析构函数，清空列表。列表中所有项的值的引用，以及列表中的迭代器，都将失效。</p>",
+        "en_name": "<p>Destroys the list. References to the values in the list, and all iterators over this list, become invalid.</p>",
+        "key_id": 729
+    },
+    {
+        "cn_name": "<p>此函数等同于",
+        "en_name": "<p>This is the same as",
+        "key_id": 730
+    },
+    {
+        "cn_name": "<p>返回列表中值 <i>value</i>的出现次数。</p>",
+        "en_name": "<p>Returns the number of occurrences of <i>value</i> in the list.</p>",
+        "key_id": 731
+    },
+    {
+        "cn_name": ">() ，若列表为空，则返回 <code>true</code> 。</p>",
+        "en_name": ">() and returns <code>true</code> if the list is empty.</p>",
+        "key_id": 732
+    },
+    {
+        "cn_name": "<p>删除列表中的第一项。</p>",
+        "en_name": "<p>Removes the first item in the list.</p>",
+        "key_id": 733
+    },
+    {
+        "cn_name": "<p>删除列表中的最后一项。</p>",
+        "en_name": "<p>Removes the last item in the list.</p>",
+        "key_id": 734
+    },
+    {
+        "cn_name": "<p>若不使用返回值，<a href=\"qlinkedlist.html#removeFirst\">removeFirst</a>() 函数更高效。</p>",
+        "en_name": "<p>If you don't use the return value, <a href=\"qlinkedlist.html#removeFirst\">removeFirst</a>() is more efficient.</p>",
+        "key_id": 735
+    },
+    {
+        "cn_name": "<p>若不使用返回值，<a href=\"qlinkedlist.html#removeLast\">removeLast</a>() 函数更高效。</p>",
+        "en_name": "<p>If you don't use the return value, <a href=\"qlinkedlist.html#removeLast\">removeLast</a>() is more efficient.</p>",
+        "key_id": 736
+    },
+    {
+        "cn_name": "<p>追加新值 <i>value</i>到列表尾部。</p>",
+        "en_name": "<p>Appends <i>value</i> to the list.</p>",
+        "key_id": 737
+    },
+    {
+        "cn_name": "<p>交换当前列表和 <i>other</i>列表。此操作巨快，且从未失手失败过。</p>",
+        "en_name": "<p>Swaps list <i>other</i> with this list. This operation is very fast and never fails.</p>",
+        "key_id": 738
+    },
+    {
+        "cn_name": "<p>返回列表中所有项的数量。</p>",
+        "en_name": "<p>Returns the number of items in the list.</p>",
+        "key_id": 739
+    },
+    {
+        "cn_name": "<p>从列表中删除所有与值 <i>value</i>相同的项。</p>",
+        "en_name": "<p>Removes all occurrences of <i>value</i> in the list.</p>",
+        "key_id": 740
+    },
+    {
+        "cn_name": "<p>此函数支持STL风格的兼容性，它等同于",
+        "en_name": "<p>This function is provided for STL compatibility. It is equivalent to",
+        "key_id": 741
+    },
+    {
+        "cn_name": "<p>在列表的头部增加新值 <i>value</i>。</p>",
+        "en_name": "<p>Inserts <i>value</i> at the beginning of the list.</p>",
+        "key_id": 742
+    },
+    {
+        "cn_name": "<p>返回列表中最后一项的引用。注意，该函数假设了该列表为非空。</p>",
+        "en_name": "<p>Returns a reference to the last item in the list. This function assumes that the list isn't empty.</p>",
+        "key_id": 743
+    },
+    {
+        "cn_name": "<p>返回列表中第一项的引用。注意，该函数假设了该列表为非空。</p>",
+        "en_name": "<p>Returns a reference to the first item in the list. This function assumes that the list isn't empty.</p>",
+        "key_id": 744
+    },
+    {
+        "cn_name": "<p>返回一个<a href=\"containers.html#stl-style-iterators\">STL风格的迭代器</a>的指针，指向列表中的第一项。</p>",
+        "en_name": "<p>Returns an <a href=\"containers.html#stl-style-iterators\">STL-style iterator</a> pointing to the first item in the list.</p>",
+        "key_id": 745
+    },
+    {
+        "cn_name": "<p>返回一个<a href=\"containers.html#stl-style-iterators\">STL风格的迭代器</a>的常量指针，指向列表中的第一项。</p>",
+        "en_name": "<p>Returns a const <a href=\"containers.html#stl-style-iterators\">STL-style iterator</a> pointing to the first item in the list.</p>",
+        "key_id": 746
+    },
+    {
+        "cn_name": "<p>返回一个<a href=\"containers.html#stl-style-iterators\">STL风格的</a>反向迭代器的常量指针，指向列表中的反向的第一项。</p>",
+        "en_name": "<p>Returns a const <a href=\"containers.html#stl-style-iterators\">STL-style</a> reverse iterator pointing to the first item in the list, in reverse order.</p>",
+        "key_id": 747
+    },
+    {
+        "cn_name": "<p>返回一个<a href=\"containers.html#stl-style-iterators\">STL风格的</a>反向迭代器的指针，指向列表中的反向的上一项。</p>",
+        "en_name": "<p>Returns a <a href=\"containers.html#stl-style-iterators\">STL-style</a> reverse iterator pointing to one past the last item in the list, in reverse order.</p>",
+        "key_id": 748
+    },
+    {
+        "cn_name": "<p>返回一个<a href=\"containers.html#stl-style-iterators\">STL风格的迭代器</a>的指针，指向列表中的最后一项后的虚位置。</p>",
+        "en_name": "<p>Returns an <a href=\"containers.html#stl-style-iterators\">STL-style iterator</a> pointing to the imaginary item after the last item in the list.</p>",
+        "key_id": 749
+    },
+    {
+        "cn_name": "<p>返回一个<a href=\"containers.html#stl-style-iterators\">STL风格的迭代器</a>的常量指针，指向列表中的最后一项后的虚位置。</p>",
+        "en_name": "<p>Returns a const <a href=\"containers.html#stl-style-iterators\">STL-style iterator</a> pointing to the imaginary item after the last item in the list.</p>",
+        "key_id": 750
+    },
+    {
+        "cn_name": "<p>若列表中包含任意一个值<i>value</i>，则返回 <code>true</code>；否则则返回  <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if the list contains an occurrence of <i>value</i>; otherwise returns <code>false</code>.</p>",
+        "key_id": 751
+    },
+    {
+        "cn_name": "<p>返回一个<a href=\"containers.html#stl-style-iterators\">STL风格的</a>反向迭代器的常量指针，指向列表中的反向的上一项。</p>",
+        "en_name": "<p>Returns a const <a href=\"containers.html#stl-style-iterators\">STL-style</a> reverse iterator pointing to one past the last item in the list, in reverse order.</p>",
+        "key_id": 752
+    },
+    {
+        "cn_name": "<p>若列表非空，且列表最后一项等于值 <i>value</i>，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if the list is not empty and its last item is equal to <i>value</i>; otherwise returns <code>false</code>.</p>",
+        "key_id": 753
+    },
+    {
+        "cn_name": "<p>若列表非空，且列表第一项等于值 <i>value</i>，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if the list is not empty and its first item is equal to <i>value</i>; otherwise returns <code>false</code>.</p>",
+        "key_id": 754
+    },
+    {
+        "cn_name": "<p>从列表中删除首次出现的值 <i>value</i>。若删除成功则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Removes the first occurrences of <i>value</i> in the list. Returns <code>true</code> on success; otherwise returns <code>false</code>.</p>",
+        "key_id": 755
+    },
+    {
+        "cn_name": "<p>若列表为空不包含任何项，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if the list contains no items; otherwise returns false.</p>",
+        "key_id": 756
+    },
+    {
+        "cn_name": "<a href=\"#details\">更多详情...</a></p>",
+        "en_name": "<a href=\"#details\">More...</a></p>",
+        "key_id": 757
+    },
+    {
+        "cn_name": "<p>同义词为 <",
+        "en_name": "<p>Synonym for <",
+        "key_id": 758
+    },
+    {
+        "cn_name": "<p>返回所指向的模型索引的列索引值。</p>",
+        "en_name": "<p>Returns the column this model index refers to.</p>",
+        "key_id": 760
+    },
+    {
+        "cn_name": "<p>返回所指向的模型索引的行索引值。</p>",
+        "en_name": "<p>Returns the row this model index refers to.</p>",
+        "key_id": 761
+    },
+    {
+        "cn_name": "<p>返回所指向的模型索引的项属性标记。</p>",
+        "en_name": "<p>Returns the flags for the item referred to by the index.</p>",
+        "key_id": 762
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个新的空模型索引。 此类型的模型索引用于指示模型中的位置无效。</ p>",
+        "en_name": "<p>Creates a new empty model index. This type of model index is used to indicate that the position in the model is invalid.</p>",
+        "key_id": 763
+    },
+    {
+        "cn_name": ">输入/输出和网络<",
+        "en_name": ">Input/Output and Networking<",
+        "key_id": 764
+    },
+    {
+        "cn_name": ">输入/输出和网络 | Qt核心模块 5.12<",
+        "en_name": ">Input/Output and Networking | Qt Core 5.12<",
+        "key_id": 765
+    },
+    {
+        "cn_name": ">使用URL的便捷接口<",
+        "en_name": ">Convenient interface for working with URLs<",
+        "key_id": 766
+    },
+    {
+        "cn_name": ">读写文本的便捷接口<",
+        "en_name": ">Convenient interface for reading and writing text<",
+        "key_id": 767
+    },
+    {
+        "cn_name": ">在URL查询中操作键值对参数的方法<",
+        "en_name": ">Way to manipulate a key-value pairs in a URL's query<",
+        "key_id": 768
+    },
+    {
+        "cn_name": ">用于将QTextDocument写入文件或其他设备时的格式无关接口<",
+        "en_name": ">Format-independent interface for writing a QTextDocument to files or other devices<",
+        "key_id": 769
+    },
+    {
+        "cn_name": ">对临时文件进行操作的输入/输出设备<",
+        "en_name": ">I/O device that operates on temporary files<",
+        "key_id": 770
+    },
+    {
+        "cn_name": ">创建临时使用的唯一目录<",
+        "en_name": ">Creates a unique directory for temporary use<",
+        "key_id": 771
+    },
+    {
+        "cn_name": ">提供有关于当前已安装的存储和驱动的信息<",
+        "en_name": ">Provides information about currently mounted storage and drives<",
+        "key_id": 772
+    },
+    {
+        "cn_name": ">支持对文件描述符进行的监视活动<",
+        "en_name": ">Support for monitoring activity on a file descriptor<",
+        "key_id": 773
+    },
+    {
+        "cn_name": ">持久的独立于平台的应用程序设置<",
+        "en_name": ">Persistent platform-independent application settings<",
+        "key_id": 774
+    },
+    {
+        "cn_name": ">QByteArray的QIODevice接口<",
+        "en_name": ">QIODevice interface for a QByteArray<",
+        "key_id": 775
+    },
+    {
+        "cn_name": ">将二进制数据序列化为QIODevice<",
+        "en_name": ">Serialization of binary data to a QIODevice<",
+        "key_id": 776
+    },
+    {
+        "cn_name": ">访问目录结构及目录下内容<",
+        "en_name": ">Access to directory structures and their contents<",
+        "key_id": 777
+    },
+    {
+        "cn_name": ">读写文件的接口<",
+        "en_name": ">Interface for reading from and writing to files<",
+        "key_id": 778
+    },
+    {
+        "cn_name": "读写已打开文件的接口<",
+        "en_name": "Interface for reading from and writing to open files<",
+        "key_id": 779
+    },
+    {
+        "cn_name": ">独立于系统的文件信息<",
+        "en_name": ">System-independent file information<",
+        "key_id": 780
+    },
+    {
+        "cn_name": ">监视文件和目录修改的接口<",
+        "en_name": ">Interface for monitoring files and directories for modifications<",
+        "key_id": 781
+    },
+    {
+        "cn_name": ">Qt中所有输入/输出设备的基类接口<",
+        "en_name": ">The base interface class of all I/O devices in Qt<",
+        "key_id": 782
+    },
+    {
+        "cn_name": ">安全写入文件的接口<",
+        "en_name": ">Interface for safely writing to files<",
+        "key_id": 783
+    },
+    {
+        "cn_name": ">直接读取资源文件的接口<",
+        "en_name": ">Interface for reading directly from resources<",
+        "key_id": 784
+    },
+    {
+        "cn_name": "保存可以传递给程序的环境变量<",
+        "en_name": "Holds the environment variables that can be passed to a program<",
+        "key_id": 785
+    },
+    {
+        "cn_name": "用于启动外部程序并与之进行通信<",
+        "en_name": "Used to start external programs and to communicate with them<",
+        "key_id": 786
+    },
+    {
+        "cn_name": ">用于将图像写入到文件或其他设备中的独立于格式的接口<",
+        "en_name": ">Format independent interface for writing images to files or other devices<",
+        "key_id": 787
+    },
+    {
+        "cn_name": ">从文件或其他设备中读取图像的独立于格式的接口<",
+        "en_name": ">Format independent interface for reading images from files or other devices<",
+        "key_id": 788
+    },
+    {
+        "cn_name": "<p>ptrdiff_t的常量类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for const ptrdiff_t. Provided for STL compatibility.</p>",
+        "key_id": 789
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.2版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.2.</p>",
+        "key_id": 790
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.1版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.1.</p>",
+        "key_id": 791
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.3版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.3.</p>",
+        "key_id": 792
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.4版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.4.</p>",
+        "key_id": 793
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.5版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.5.</p>",
+        "key_id": 794
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.6版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.6.</p>",
+        "key_id": 795
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.7版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.7.</p>",
+        "key_id": 796
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.8版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.8.</p>",
+        "key_id": 797
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.9版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.9.</p>",
+        "key_id": 798
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 4.10版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 4.10.</p>",
+        "key_id": 799
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.1版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.1.</p>",
+        "key_id": 800
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.2版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.2.</p>",
+        "key_id": 801
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.3版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.3.</p>",
+        "key_id": 802
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.4版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.4.</p>",
+        "key_id": 803
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.5版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.5.</p>",
+        "key_id": 804
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.6版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.6.</p>",
+        "key_id": 805
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.7版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.7.</p>",
+        "key_id": 806
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.8版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.8.</p>",
+        "key_id": 807
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.9版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.9.</p>",
+        "key_id": 808
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.10版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.10.</p>",
+        "key_id": 809
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.11版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.11.</p>",
+        "key_id": 810
+    },
+    {
+        "cn_name": "<p>这个类型重定义是在Qt 5.12版本中新增引入的。</p>",
+        "en_name": "<p>This typedef was introduced in  Qt 5.12.</p>",
+        "key_id": 811
+    },
+    {
+        "cn_name": "<p>它只是简单类型重定义，方便使用于 <",
+        "en_name": "<p>It is simply a typedef for <",
+        "key_id": 812
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个空集合。</p>",
+        "en_name": "<p>Constructs an empty set.</p>",
+        "key_id": 813
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个空向量表。</p>",
+        "en_name": "<p>Constructs an empty vector.</p>",
+        "key_id": 814
+    },
+    {
+        "cn_name": "<p>增加新值 <i>value</i> 到向量表的尾部。</p>",
+        "en_name": "<p>Inserts <i>value</i> at the end of the vector.</p>",
+        "key_id": 815
+    },
+    {
+        "cn_name": "<p>删除集合中的所有元素。</p>",
+        "en_name": "<p>Removes all elements from the set.</p>",
+        "key_id": 816
+    },
+    {
+        "cn_name": "<p>返回集合中的所有元素项的总数量。</p>",
+        "en_name": "<p>Returns the number of items in the set.</p>",
+        "key_id": 817
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个空的映射表。</p>",
+        "en_name": "<p>Constructs an empty map.</p>",
+        "key_id": 818
+    },
+    {
+        "cn_name": "<p>删除映射表中的所有元素。</p>",
+        "en_name": "<p>Removes all items from the map.</p>",
+        "key_id": 819
+    },
+    {
+        "cn_name": "<p>返回映射表中的所有键值对的总数量。</p>",
+        "en_name": "<p>Returns the number of (key, value) pairs in the map.</p>",
+        "key_id": 820
+    },
+    {
+        "cn_name": "<p>增加新值 <i>t</i> 到队列的尾部。</p>",
+        "en_name": "<p>Adds value <i>t</i> to the tail of the queue.</p>",
+        "key_id": 821
+    },
+    {
+        "cn_name": "<p>返回队列中第一项的引用。注意，该函数假设了该队列为非空。</p>",
+        "en_name": "<p>Returns a reference to the queue's head item. This function assumes that the queue isn't empty.</p>",
+        "key_id": 822
+    },
+    {
+        "cn_name": "<p>删除队列中第一项并返回第一项。注意，该函数假设了该队列为非空。</p>",
+        "en_name": "<p>Removes the head item in the queue and returns it. This function assumes that the queue isn't empty.</p>",
+        "key_id": 823
+    },
+    {
+        "cn_name": "<p>从栈中删除顶部第一项并返回它。注意，该函数假设了该栈为非空。</p>",
+        "en_name": "<p>Removes the top item from the stack and returns it. This function assumes that the stack isn't empty.</p>",
+        "key_id": 824
+    },
+    {
+        "cn_name": "<p>返回栈中顶部第一项的引用。注意，该函数假设了该栈列为非空。</p>",
+        "en_name": "<p>Returns a reference to the stack's top item. This function assumes that the stack isn't empty.</p>",
+        "key_id": 825
+    },
+    {
+        "cn_name": "<p>增加新值 <i>t</i> 到栈的顶部。</p>",
+        "en_name": "<p>Adds element <i>t</i> to the top of the stack.</p>",
+        "key_id": 826
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个空的哈希表。</p>",
+        "en_name": "<p>Constructs an empty hash.</p>",
+        "key_id": 827
+    },
+    {
+        "cn_name": "<p>析构函数， 哈希表中的元素值和迭代器都将无效。</ p>",
+        "en_name": "<p>Destroys the hash. References to the values in the hash and all iterators of this hash become invalid.</p>",
+        "key_id": 828
+    },
+    {
+        "cn_name": "<p>删除哈希表中的所有元素。</p>",
+        "en_name": "<p>Removes all items from the hash.</p>",
+        "key_id": 829
+    },
+    {
+        "cn_name": "<p>析构函数， 列表中的元素值和迭代器都将无效。</ p>",
+        "en_name": "<p>Destroys the list. References to the values in the list and all iterators of this list become invalid.</p>",
+        "key_id": 830
+    },
+    {
+        "cn_name": "<p>追加新值 <i>value</i> 到列表的尾部。</p>",
+        "en_name": "<p>Appends the items of the <i>value</i> list to this list.</p>",
+        "key_id": 831
+    },
+    {
+        "cn_name": "<p>删除列表中的所有元素。</p>",
+        "en_name": "<p>Removes all items from the list.</p>",
+        "key_id": 832
+    },
+    {
+        "cn_name": "<p>交换当前队列和 <i>other</i>队列。此操作巨快，且从未失手失败过。</p>",
+        "en_name": "<p>Swaps queue <i>other</i> with this queue. This operation is very fast and never fails.</p>",
+        "key_id": 833
+    },
+    {
+        "cn_name": "<p>交换当前栈和 <i>other</i>栈。此操作巨快，且从未失手失败过。</p>",
+        "en_name": "<p>Swaps stack <i>other</i> with this stack. This operation is very fast and never fails.</p>",
+        "key_id": 834
+    },
+    {
+        "cn_name": "<p>交换当前哈希表和 <i>other</i>哈希表。此操作巨快，且从未失手失败过。</p>",
+        "en_name": "<p>Swaps hash <i>other</i> with this hash. This operation is very fast and never fails.</p>",
+        "key_id": 835
+    },
+    {
+        "cn_name": "<p>交换当前映射表和 <i>other</i>映射表。此操作巨快，且从未失手失败过。</p>",
+        "en_name": "<p>Swaps map <i>other</i> with this map. This operation is very fast and never fails.</p>",
+        "key_id": 836
+    },
+    {
+        "cn_name": "<p>交换当前集合和 <i>other</i>集合。此操作巨快，且从未失手失败过。</p>",
+        "en_name": "<p>Swaps set <i>other</i> with this set. This operation is very fast and never fails.</p>",
+        "key_id": 837
+    },
+    {
+        "cn_name": "。列表不允许为空值。若列表有可能为空值，则务必在调用此函数之前调用 <a href=\"qlist.html#isEmpty\">isEmpty</a>()来加以判断，做好提前规避。</p>",
+        "en_name": ". The list must not be empty. If the list can be empty, call <a href=\"qlist.html#isEmpty\">isEmpty</a>() before calling this function.</p>",
+        "key_id": 838
+    },
+    {
+        "cn_name": "， 若哈希表为空则返回<code>true</code>，否则则返回 <code>false</code>。</p>",
+        "en_name": ", returning true if the hash is empty; otherwise returns <code>false</code>.</p>",
+        "key_id": 839
+    },
+    {
+        "cn_name": "， 若映射表为空则返回<code>true</code>，否则则返回 <code>false</code>。</p>",
+        "en_name": ", returning true if the map is empty; otherwise returning false.</p>",
+        "key_id": 840
+    },
+    {
+        "cn_name": "。向量表不允许为空值。若向量表有可能为空值，则务必在调用此函数之前调用 <a href=\"qvector.html#isEmpty\">isEmpty</a>()来加以判断，做好提前规避。</p>",
+        "en_name": ". The vector must not be empty. If the vector can be empty, call <a href=\"qvector.html#isEmpty\">isEmpty</a>() before calling this function.</p>",
+        "key_id": 841
+    },
+    {
+        "cn_name": "<p>仅当程序以C++11模式编译下，此函数方可适用。<",
+        "en_name": "<p>This function is only available if the program is being compiled in C++11 mode.</p>",
+        "key_id": 842
+    },
+    {
+        "cn_name": "<p>Key的类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for Key. Provided for STL compatibility.</p>",
+        "key_id": 843
+    },
+    {
+        "cn_name": "<p>QMap::key_value_iterator的类型重定义，提供了STL风格的迭代器已适用于 <",
+        "en_name": "<p>The QMap::key_value_iterator typedef provides an STL-style iterator for <",
+        "key_id": 844
+    },
+    {
+        "cn_name": "<p>QMap::const_key_value_iterator的类型重定义，提供了STL风格的迭代器已适用于 <",
+        "en_name": "<p>The QMap::const_key_value_iterator typedef provides an STL-style iterator for <",
+        "key_id": 845
+    },
+    {
+        "cn_name": "<p>析构函数， 映射表中的元素值和迭代器都将无效。</ p>",
+        "en_name": "<p>Destroys the map. References to the values in the map, and all iterators over this map, become invalid.</p>",
+        "key_id": 846
+    },
+    {
+        "cn_name": "<p>返回 <a href=\"containers.html#stl-style-iterators\">STL风格的迭代器</a>，指向映射表中的第一个项。</p>",
+        "en_name": "<p>Returns an <a href=\"containers.html#stl-style-iterators\">STL-style iterator</a> pointing to the first item in the map.</p>",
+        "key_id": 847
+    },
+    {
+        "cn_name": "<p>返回 <a href=\"containers.html#stl-style-iterators\">STL风格的常量迭代器</a>，指向映射表中的第一个项。</p>",
+        "en_name": "<p>Returns a const <a href=\"containers.html#stl-style-iterators\">STL-style iterator</a> pointing to the first item in the map.</p>",
+        "key_id": 848
+    },
+    {
+        "cn_name": "<p>返回 <a href=\"containers.html#stl-style-iterators\">STL风格的常量迭代器</a>，指向映射表中的第一个项。</p>",
+        "en_name": "<p>Returns a const <a href=\"containers.html#stl-style-iterators\">STL-style iterator</a> pointing to the first item in the map.</p>",
+        "key_id": 849
+    },
+    {
+        "cn_name": "<p> 若哈希表为空则返回<code>true</code>，否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if the map contains no items; otherwise returns false.</p>",
+        "key_id": 850
+    },
+    {
+        "cn_name": "<p>返回STL风格的映射表，其等同于",
+        "en_name": "<p>Returns an STL map equivalent to this",
+        "key_id": 851
+    },
+    {
+        "cn_name": "<p>插入一个新的关键字为 <i>key</i>值为 <i>value</i>的元素项到映射表。</p>",
+        "en_name": "<p>Inserts a new item with the key <i>key</i> and a value of <i>value</i>.</p>",
+        "key_id": 852
+    },
+    {
+        "cn_name": "<p>不移动迭代器，返回前一元素项。</p>",
+        "en_name": "<p>Returns the previous item without moving the iterator.</p>",
+        "key_id": 853
+    },
+    {
+        "cn_name": "<p>迭代器向后移动一个位置，返回前一元素项。</p>",
+        "en_name": "<p>Returns the previous item and moves the iterator back by one position.</p>",
+        "key_id": 854
+    },
+    {
+        "cn_name": "<p>不移动迭代器，返回下一元素项。</p>",
+        "en_name": "<p>Returns the next item without moving the iterator.</p>",
+        "key_id": 855
+    },
+    {
+        "cn_name": "<p>迭代器向前移动一个位置，返回下一元素项。</p>",
+        "en_name": "<p>Returns the next item and advances the iterator by one position.</p>",
+        "key_id": 856
+    },
+    {
+        "cn_name": "<p>迭代器移动到容器的尾部(在最后一元素项之后)。</p>",
+        "en_name": "<p>Moves the iterator to the back of the container (after the last item).</p>",
+        "key_id": 857
+    },
+    {
+        "cn_name": "<p>迭代器移动到容器的头部(在第一元素项之前)。</p>",
+        "en_name": "<p>Moves the iterator to the front of the container (before the first item).</p>",
+        "key_id": 858
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个迭代器，用于遍历映射表 <i>map</i>。迭代器位于映射表的头部(在第一个元素之前)。</p>",
+        "en_name": "<p>Constructs an iterator for traversing <i>map</i>. The iterator is set to be at the front of the map (before the first item).</p>",
+        "key_id": 859
+    },
+    {
+        "cn_name": "<p>若迭代器后面至少有一个元素项，即迭代器不位于容器的头部，则返回 <code>true</code>；否则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if there is at least one item behind the iterator, i.e&#x2e; the iterator is <i>not</i> at the front of the container; otherwise returns <code>false</code>.</p>",
+        "key_id": 860
+    },
+    {
+        "cn_name": "<p>若迭代器前面至少有一个元素项，即迭代器不位于容器的尾部，则返回 <code>true</code>；否则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if there is at least one item ahead of the iterator, i.e&#x2e; the iterator is <i>not</i> at the back of the container; otherwise returns <code>false</code>.</p>",
+        "key_id": 861
+    },
+    {
+        "cn_name": "<p>若在容器的尾部，调用此函数将导致未定义的结果。慎用。</p>",
+        "en_name": "<p>Calling this function on an iterator located at the back of the container leads to undefined results.</p>",
+        "key_id": 862
+    },
+    {
+        "cn_name": "<p>若在容器的头部，调用此函数将导致未定义的结果。慎用。</p>",
+        "en_name": "<p>Calling this function on an iterator located at the front of the container leads to undefined results.</p>",
+        "key_id": 863
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个迭代器，用于遍历哈希表 <i>hash</i>。迭代器位于哈希表的头部(在第一个元素之前)。</p>",
+        "en_name": "<p>Constructs an iterator for traversing <i>hash</i>. The iterator is set to be at the front of the hash (before the first item).</p>",
+        "key_id": 864
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个迭代器，用于遍历集合 <i>set</i>。迭代器位于集合的头部(在第一个元素之前)。</p>",
+        "en_name": "<p>Constructs an iterator for traversing <i>set</i>. The iterator is set to be at the front of the set (before the first item).</p>",
+        "key_id": 865
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个迭代器，用于遍历列表 <i>list</i>。迭代器位于列表的头部(在第一个元素之前)。</p>",
+        "en_name": "<p>Constructs an iterator for traversing <i>list</i>. The iterator is set to be at the front of the list (before the first item).</p>",
+        "key_id": 866
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个迭代器，用于遍历向量表 <i>vector</i>。迭代器位于向量表的头部(在第一个元素之前)。</p>",
+        "en_name": "<p>Constructs an iterator for traversing <i>vector</i>. The iterator is set to be at the front of the vector (before the first item).</p>",
+        "key_id": 867
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个迭代器，用于遍历哈希表 <i>hash</i>。迭代器位于哈希表的头部(在第一个元素之前)。</p>",
+        "en_name": "<p>Constructs an iterator for traversing <i>hash</i>. The iterator is set to be at the front of the hash (before the first item).</p>",
+        "key_id": 868
+    },
+    {
+        "cn_name": "<p>遍历容器的函数有 <",
+        "en_name": "<p>The traversal functions are <",
+        "key_id": 869
+    },
+    {
+        "cn_name": "<p>不移动迭代器，返回下一元素项的引用。</p>",
+        "en_name": "<p>Returns a reference to the next item without moving the iterator.</p>",
+        "key_id": 870
+    },
+    {
+        "cn_name": "<p>此属性包含了该代理模型的源模型。</p>",
+        "en_name": "<p>This property holds the source model of this proxy model.</p>",
+        "key_id": 871
+    },
+    {
+        "cn_name": "<p>构造函数，用传入的参数<i>parent</i>来创建一个代理模型。</p>",
+        "en_name": "<p>Constructs a proxy model with the given <i>parent</i>.</p>",
+        "key_id": 872
+    },
+    {
+        "cn_name": "<p>析构函数，释放该代理模型。</p>",
+        "en_name": "<p>Destroys the proxy model.</p>",
+        "key_id": 873
+    },
+    {
+        "cn_name": "<p>返回包含数据的源模型，源模型可用于该代理模型。</p>",
+        "en_name": "<p>Returns the model that contains the data that is available through the proxy model.</p>",
+        "key_id": 874
+    },
+    {
+        "cn_name": "<p>设置该代理模型的源模型为传入的 <i>sourceModel</i>，用于代理模型处理。 </p>",
+        "en_name": "<p>Sets the given <i>sourceModel</i> to be processed by the proxy model.</p>",
+        "key_id": 875
+    },
+    {
+        "cn_name": "<p>子类需要在此方法开始处调用 <a href=\"qabstractitemmodel.html#beginResetModel\">beginResetModel</a>()函数，从旧模型中断开信号槽连接，调用此方法连接信号槽到新模型，然后调用 <a href=\"qabstractitemmodel.html#endResetModel\">endResetModel</a>()函数。</p>",
+        "en_name": "<p>Subclasses should call <a href=\"qabstractitemmodel.html#beginResetModel\">beginResetModel</a>() at the beginning of the method, disconnect from the old model, call this method, connect to the new model, and call <a href=\"qabstractitemmodel.html#endResetModel\">endResetModel</a>().</p>",
+        "key_id": 876
+    },
+    {
+        "cn_name": "<p>清空该代理模型的角色名称 <a href=\"qabstractitemmodel.html#roleNames\">roleNames</a>。</p>",
+        "en_name": "<p>Clears the <a href=\"qabstractitemmodel.html#roleNames\">roleNames</a> of this proxy model.</p>",
+        "key_id": 877
+    },
+    {
+        "cn_name": "<p><a href=\"qjsonvalue.html\">QJsonValue</a>的类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for <a href=\"qjsonvalue.html\">QJsonValue</a>. Provided for STL compatibility.</p>",
+        "key_id": 878
+    },
+    {
+        "cn_name": "<p><a href=\"qstring.html\">QString</a>的类型重定义，提供了对STL风格的兼容支持。</p>",
+        "en_name": "<p>Typedef for <a href=\"qstring.html\">QString</a>. Provided for STL compatibility.</p>",
+        "key_id": 879
+    },
+    {
+        "cn_name": "<p>返回 <a href=\"containers.html#stl-style-iterators\">STL风格的迭代器</a>，指向对象中的第一个元素项。</p>",
+        "en_name": "<p>Returns an <a href=\"containers.html#stl-style-iterators\">STL-style iterator</a> pointing to the first item in the object.</p>",
+        "key_id": 880
+    },
+    {
+        "cn_name": "<p>返回 <a href=\"containers.html#stl-style-iterators\">STL风格的常量迭代器</a>，指向对象中的第一个元素项。</p>",
+        "en_name": "<p>Returns a const <a href=\"containers.html#stl-style-iterators\">STL-style iterator</a> pointing to the first item in the object.</p>",
+        "key_id": 881
+    },
+    {
+        "cn_name": "<p>若对象中包含关键词 <i>key</i>，则返回 <code>true</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if the object contains key <i>key</i>.</p>",
+        "key_id": 882
+    },
+    {
+        "cn_name": "，若对象为空则返回 <code>true</code>，否则则返回 <code>false</code>。</p>",
+        "en_name": ", returning <code>true</code> if the object is empty; otherwise returning <code>false</code>.</p>",
+        "key_id": 883
+    },
+    {
+        "cn_name": "<p>交换当前对象和 <i>other</i>对象。此操作巨快，且从未失手失败过。</p>",
+        "en_name": "<p>Swaps the object <i>other</i> with this. This operation is very fast and never fails.</p>",
+        "key_id": 884
+    },
+    {
+        "cn_name": "<p>返回所创建的哈希表。</p>",
+        "en_name": "<p>Returns the created hash.</p>",
+        "key_id": 885
+    },
+    {
+        "cn_name": "<p>返回所创建的映射表。</p>",
+        "en_name": "<p>Returns the created map.</p>",
+        "key_id": 886
+    },
+    {
+        "cn_name": "<p>将当前对象转换为 <",
+        "en_name": "<p>Converts this object to a <",
+        "key_id": 887
+    },
+    {
+        "cn_name": ">Qt核心类 | Qt核心模块 5.12<",
+        "en_name": ">Qt Core C++ Classes | Qt Core 5.12<",
+        "key_id": 888
+    },
+    {
+        "cn_name": "<p>提供了核心的非界面GUI的基础功能。 <",
+        "en_name": "<p>Provides core non-GUI functionality. <",
+        "key_id": 889
+    },
+    {
+        "cn_name": ">位数：比特位的数组<",
+        "en_name": ">Array of bits<",
+        "key_id": 890
+    },
+    {
+        "cn_name": ">字节的数组<",
+        "en_name": ">Array of bytes<",
+        "key_id": 891
+    },
+    {
+        "cn_name": ">字节数组的列表<",
+        "en_name": "List of byte arrays<",
+        "key_id": 892
+    },
+    {
+        "cn_name": ">对象的定时器事件<",
+        "en_name": ">Timer events for objects<",
+        "key_id": 893
+    },
+    {
+        "cn_name": ">所有动画的基类<",
+        "en_name": ">The base of all animations<",
+        "key_id": 894
+    },
+    {
+        "cn_name": ">管理Qt事件队列的接口<",
+        "en_name": ">Interface to manage Qt's event queue<",
+        "key_id": 895
+    },
+    {
+        "cn_name": ">项模型类的抽象接口<",
+        "en_name": ">The abstract interface for item model classes<",
+        "key_id": 896
+    },
+    {
+        "cn_name": ">能被子类化用于创建一维列表模型的抽象模型<",
+        "en_name": ">Abstract model that can be subclassed to create one-dimensional list models<",
+        "key_id": 897
+    },
+    {
+        "cn_name": ">能被子类化用于创建表格模型的抽象模型<",
+        "en_name": ">Abstract model that can be subclassed to create table models<",
+        "key_id": 898
+    },
+    {
+        "cn_name": ">用于排序、过滤和其他数据处理任务的代理项模型的基类<",
+        "en_name": ">Base class for proxy item models that can do sorting, filtering or other data processing tasks<",
+        "key_id": 899
+    },
+    {
+        "cn_name": ">状态机中的状态的基类<",
+        "en_name": ">The base class of states of a QStateMachine<",
+        "key_id": 900
+    },
+    {
+        "cn_name": ">位于抽象状态对象间的转换的基类<",
+        "en_name": ">The base class of transitions between QAbstractState objects<",
+        "key_id": 901
+    },
+    {
+        "cn_name": ">动画组的抽象基类<",
+        "en_name": ">Abstract base class for groups of animations<",
+        "key_id": 902
+    },
+    {
+        "cn_name": ">日期函数<",
+        "en_name": ">Date functions<",
+        "key_id": 903
+    },
+    {
+        "cn_name": ">日期和时间函数<",
+        "en_name": ">Date and time functions<",
+        "key_id": 904
+    },
+    {
+        "cn_name": ">调试信息的输出流<",
+        "en_name": ">Output stream for debugging information<",
+        "key_id": 905
+    },
+    {
+        "cn_name": ">计算流逝时间的快速方法<",
+        "en_name": "p>Fast way to calculate elapsed times<",
+        "key_id": 906
+    },
+    {
+        "cn_name": ">最终状态<",
+        "en_name": ">Final state<",
+        "key_id": 907
+    },
+    {
+        "cn_name": ">封装了JSON数组<",
+        "en_name": ">Encapsulates a JSON array<",
+        "key_id": 908
+    },
+    {
+        "cn_name": ">封装了JSON对象<",
+        "en_name": ">Encapsulates a JSON object<",
+        "key_id": 909
+    },
+    {
+        "cn_name": ">共享数据对象的基类<",
+        "en_name": ">Base class for shared data objects<",
+        "key_id": 910
+    },
+    {
+        "cn_name": ">访问共享内存段<",
+        "en_name": ">Access to a shared memory segment<",
+        "key_id": 911
+    },
+    {
+        "cn_name": ">选择文件变体的便捷方法<",
+        "en_name": ">Convenient way of selecting file variants<",
+        "key_id": 912
+    },
+    {
+        "cn_name": ">目录实体列表的迭代器<",
+        "en_name": ">Iterator for directory entrylists<",
+        "key_id": 913
+    },
+    {
+        "cn_name": ">自定义调试操作的便捷类<",
+        "en_name": ">Convenience class for custom QDebug operators<",
+        "key_id": 914
+    },
+    {
+        "cn_name": ">QFuture类的Java风格的常量迭代器<",
+        "en_name": ">Java-style const iterator for QFuture<",
+        "key_id": 915
+    },
+    {
+        "cn_name": ">简化QFuture类同步操作的便捷类<",
+        "en_name": ">Convenience class that simplifies QFuture synchronization<",
+        "key_id": 916
+    },
+    {
+        "cn_name": ">提供了基于哈希表目录的模板类<",
+        "en_name": ">Template class that provides a hash-table-based dictionary<",
+        "key_id": 917
+    },
+    {
+        "cn_name": ">用于实现全局静态对象<",
+        "en_name": ">Used to implement a global static object<",
+        "key_id": 918
+    },
+    {
+        "cn_name": ">读取和写入JSON文档的方法<",
+        "en_name": ">Way to read and write JSON documents<",
+        "key_id": 919
+    },
+    {
+        "cn_name": ">提供列表的模板类<",
+        "en_name": ">Template class that provides lists<",
+        "key_id": 920
+    },
+    {
+        "cn_name": ">列表和队列的Java风格的常量迭代器<",
+        "en_name": ">Java-style const iterator for QList and QQueue<",
+        "key_id": 921
+    },
+    {
+        "cn_name": ">映射表系列的Java风格的常量迭代器<",
+        "en_name": ">Java-style const iterator for QMap and QMultiMap<",
+        "key_id": 922
+    },
+    {
+        "cn_name": ">链表的Java风格的非常量迭代器<",
+        "en_name": "Java-style non-const iterator for QLinkedList<",
+        "key_id": 923
+    },
+    {
+        "cn_name": ">哈希表系列的Java风格的非常量迭代器<",
+        "en_name": ">Java-style non-const iterator for QHash and QMultiHash<",
+        "key_id": 924
+    },
+    {
+        "cn_name": ">列表和队列的Java风格的非常量迭代器<",
+        "en_name": ">Java-style non-const iterator for QList and QQueue<",
+        "key_id": 925
+    },
+    {
+        "cn_name": ">集合的Java风格的非常量迭代器<",
+        "en_name": ">Java-style non-const iterator for QSet<",
+        "key_id": 926
+    },
+    {
+        "cn_name": ">向量表和堆栈的Java风格的非常量迭代器<",
+        "en_name": ">Java-style non-const iterator for QVector and QStack<",
+        "key_id": 927
+    },
+    {
+        "cn_name": ">向量表和堆栈的Java风格的常量迭代器<",
+        "en_name": ">Java-style const iterator for QVector and QStack<",
+        "key_id": 928
+    },
+    {
+        "cn_name": ">所有可运行对象的基类<",
+        "en_name": ">The base class for all runnable objects<",
+        "key_id": 929
+    },
+    {
+        "cn_name": ">Qt动画属性<",
+        "en_name": ">Animates Qt properties<",
+        "key_id": 930
+    },
+    {
+        "cn_name": ">所有Qt对象的基类<",
+        "en_name": ">The base class of all Qt objects<",
+        "key_id": 931
+    },
+    {
+        "cn_name": ">集合的Java风格的常量迭代器<",
+        "en_name": ">Java-style const iterator for QSet<",
+        "key_id": 932
+    },
+    {
+        "cn_name": ">提供了基于哈希表集合的模板类<",
+        "en_name": ">Template class that provides a hash-table-based set<",
+        "key_id": 933
+    },
+    {
+        "cn_name": ">提供了堆栈的模板类<",
+        "en_name": ">Template class that provides a stack<",
+        "key_id": 934
+    },
+    {
+        "cn_name": ">访问标准路径的方法<",
+        "en_name": ">Methods for accessing standard paths<",
+        "key_id": 935
+    },
+    {
+        "cn_name": ">Unicode编码的字符串<",
+        "en_name": ">Unicode character string<",
+        "key_id": 936
+    },
+    {
+        "cn_name": ">字符串列表<",
+        "en_name": ">List of strings<",
+        "key_id": 937
+    },
+    {
+        "cn_name": ">系统信息<",
+        "en_name": ">Information about the system<",
+        "key_id": 938
+    },
+    {
+        "cn_name": ">管理线程集合<",
+        "en_name": ">Manages a collection of QThreads<",
+        "key_id": 939
+    },
+    {
+        "cn_name": ">时钟时间函数<",
+        "en_name": ">Clock time functions<",
+        "key_id": 940
+    },
+    {
+        "cn_name": ">包含描述定时器事件的参数<",
+        "en_name": ">Contains parameters that describe a timer event<",
+        "key_id": 941
+    },
+    {
+        "cn_name": ">动画基类<",
+        "en_name": ">Base class for animations<",
+        "key_id": 942
+    },
+    {
+        "cn_name": ">在运行时加载插件<",
+        "en_name": ">Loads a plugin at run-time<",
+        "key_id": 943
+    },
+    {
+        "cn_name": ">用于在数据模型中定位数据<",
+        "en_name": ">Used to locate data in a data model<",
+        "key_id": 944
+    },
+    {
+        "cn_name": ">读写锁<",
+        "en_name": ">Read-write locking<",
+        "key_id": 945
+    },
+    {
+        "cn_name": ">独立于平台的管理线程的方法<",
+        "en_name": ">Platform-independent way to manage threads<",
+        "key_id": 946
+    },
+    {
+        "cn_name": ">提供了队列的通用容器<",
+        "en_name": ">Generic container that provides a queue<",
+        "key_id": 947
+    },
+    {
+        "cn_name": ">存储元素项对的模板类<",
+        "en_name": ">Template class that stores a pair of items<",
+        "key_id": 948
+    },
+    {
+        "cn_name": ">映射表系列的Java风格的非常量迭代器<",
+        "en_name": ">Java-style non-const iterator for QMap and QMultiMap<",
+        "key_id": 949
+    },
+    {
+        "cn_name": ">提供了多值映射表的映射表便捷子类<",
+        "en_name": ">Convenience QMap subclass that provides multi-valued maps<",
+        "key_id": 950
+    },
+    {
+        "cn_name": ">生成日志消息<",
+        "en_name": ">Generates log messages<",
+        "key_id": 951
+    },
+    {
+        "cn_name": ">QMap::key_iterator类提供了STL风格的常量迭代器用于哈希表系列的关键字<",
+        "en_name": ">QMap::key_iterator class provides an STL-style const iterator for QMap and QMultiMap keys<",
+        "key_id": 952
+    },
+    {
+        "cn_name": ">QSet::iterator类提供了STL风格的非常量迭代器用于集合<",
+        "en_name": ">QSet::iterator class provides an STL-style non-const iterator for QSet<",
+        "key_id": 953
+    },
+    {
+        "cn_name": ">QSet::const_iterator类提供了STL风格的常量迭代器用于集合<",
+        "en_name": ">QSet::const_iterator class provides an STL-style const iterator for QSet<",
+        "key_id": 954
+    },
+    {
+        "cn_name": ">继承了QEvent，并且保存了与QObject相关联事件的克隆<",
+        "en_name": ">Inherits QEvent and holds a clone of an event associated with a QObject<",
+        "key_id": 955
+    },
+    {
+        "cn_name": ">表示Qt信号事件<",
+        "en_name": ">Represents a Qt signal event<",
+        "key_id": 956
+    },
+    {
+        "cn_name": ">具有简单流API的XML编写器<",
+        "en_name": ">XML writer with a simple streaming API<",
+        "key_id": 957
+    },
+    {
+        "cn_name": ">通过简单流API来读取格式良好XML的快速解析器<",
+        "en_name": ">Fast parser for reading well-formed XML via a simple streaming API<",
+        "key_id": 958
+    },
+    {
+        "cn_name": ">描述了DTD表示法声明<",
+        "en_name": ">Represents a DTD notation declaration<",
+        "key_id": 959
+    },
+    {
+        "cn_name": ">描述了命名空间声明<",
+        "en_name": ">Represents a namespace declaration<",
+        "key_id": 960
+    },
+    {
+        "cn_name": ">描述了QXmlStreamAttribute的向量表<",
+        "en_name": ">Represents a vector of QXmlStreamAttribute<",
+        "key_id": 961
+    },
+    {
+        "cn_name": ">描述了简单XML属性<",
+        "en_name": ">Represents a single XML attribute<",
+        "key_id": 962
+    },
+    {
+        "cn_name": ">提供了动态数组的模板类<",
+        "en_name": ">Template class that provides a dynamic array<",
+        "key_id": 963
+    },
+    {
+        "cn_name": ">底层可变长度的数组<",
+        "en_name": ">Low-level variable-length array<",
+        "key_id": 964
+    },
+    {
+        "cn_name": ">提供了基于红黑树字典的模板类<",
+        "en_name": ">Template class that provides a red-black-tree-based dictionary<",
+        "key_id": 965
+    },
+    {
+        "cn_name": ">关于Qt动态库的信息<",
+        "en_name": ">Information about the Qt library<",
+        "key_id": 966
+    },
+    {
+        "cn_name": ">在运行时加载共享动态库<",
+        "en_name": ">Loads shared libraries at runtime<",
+        "key_id": 967
+    },
+    {
+        "cn_name": ">哈希表系列的Java风格的常量迭代器<",
+        "en_name": ">Java-style const iterator for QHash and QMultiHash<",
+        "key_id": 968
+    },
+    {
+        "cn_name": ">描述了异步计算的结果<",
+        "en_name": ">Represents the result of an asynchronous computation<",
+        "key_id": 969
+    },
+    {
+        "cn_name": ">提供了缓存的模板类<",
+        "en_name": ">Template class that provides a cache<",
+        "key_id": 970
+    },
+    {
+        "cn_name": ">封装了CBOR的值<",
+        "en_name": ">Encapsulates a value in CBOR<",
+        "key_id": 971
+    },
+    {
+        "cn_name": ">每个线程数据存储<",
+        "en_name": ">Per-thread data storage<",
+        "key_id": 972
+    },
+    {
+        "cn_name": ">控制动画的时间表<",
+        "en_name": ">Timeline for controlling animations<",
+        "key_id": 973
+    },
+    {
+        "cn_name": ">在特定时区下转换UTC和本地时间<",
+        "en_name": ">Converts between UTC and local time in a specific time zone<",
+        "key_id": 974
+    },
+    {
+        "cn_name": ">重复和单次的定时器<",
+        "en_name": ">Repetitive and single-shot timers<",
+        "key_id": 975
+    },
+    {
+        "cn_name": ">支持字符串到视图的模型<",
+        "en_name": ">Model that supplies strings to views<",
+        "key_id": 976
+    },
+    {
+        "cn_name": ">状态机的通用状态<",
+        "en_name": ">General-purpose state for QStateMachine<",
+        "key_id": 977
+    },
+    {
+        "cn_name": ">文字编码之间的转换<",
+        "en_name": ">Conversions between text encodings<",
+        "key_id": 978
+    },
+    {
+        "cn_name": ">基于状态的解码器<",
+        "en_name": ">State-based decoder<",
+        "key_id": 979
+    },
+    {
+        "cn_name": ">基于状态的编码器<",
+        "en_name": ">State-based encoder<",
+        "key_id": 980
+    },
+    {
+        "cn_name": ">描述了DTD实体声明<",
+        "en_name": "Represents a DTD entity declaration<",
+        "key_id": 981
+    },
+    {
+        "cn_name": ">QXmlStreamReader的实体解析器<",
+        "en_name": ">Entity resolver for a QXmlStreamReader<",
+        "key_id": 982
+    },
+    {
+        "cn_name": ">简化写访问的读写锁的加锁和解锁的便捷类<",
+        "en_name": ">Convenience class that simplifies locking and unlocking read-write locks for write access<",
+        "key_id": 983
+    },
+    {
+        "cn_name": ">支持Windows的等待功能<",
+        "en_name": ">Support for the Windows Wait functions<",
+        "key_id": 984
+    },
+    {
+        "cn_name": ">拥有对共享指针的弱引用<",
+        "en_name": ">Holds a weak reference to a shared pointer<",
+        "key_id": 985
+    },
+    {
+        "cn_name": "用于同步线程的条件变量<",
+        "en_name": "Condition variable for synchronizing threads<",
+        "key_id": 986
+    },
+    {
+        "cn_name": ">包含拥有任意数字分段的版本号<",
+        "en_name": ">Contains a version number with an arbitrary number of segments<",
+        "key_id": 987
+    },
+    {
+        "cn_name": ">同最常见Qt数据类型的联合一样<",
+        "en_name": ">Acts like a union for the most common Qt data types<",
+        "key_id": 988
+    },
+    {
+        "cn_name": ">存储通用唯一标识符 (UUID) <",
+        "en_name": ">Stores a Universally Unique Identifier (UUID)<",
+        "key_id": 989
+    },
+    {
+        "cn_name": ">翻译器：支持文本输出的国际化<",
+        "en_name": ">Internationalization support for text output<",
+        "key_id": 990
+    },
+    {
+        "cn_name": ">UnhandleException类描述了工作线程中的未处理异常<",
+        "en_name": ">UnhandledException class represents an unhandled exception in a worker thread<",
+        "key_id": 991
+    },
+    {
+        "cn_name": ">在字符串中查找Unicode文本边界的方法<",
+        "en_name": ">Way of finding Unicode text boundaries in a string<",
+        "key_id": 992
+    },
+    {
+        "cn_name": ">关于字符串子类的简单封装<",
+        "en_name": ">Thin wrapper around QString substrings<",
+        "key_id": 993
+    },
+    {
+        "cn_name": ">拥有一系列可以在Unicode字符串中快速匹配的字符<",
+        "en_name": ">Holds a sequence of characters that can be quickly matched in a Unicode string<",
+        "key_id": 994
+    },
+    {
+        "cn_name": ">具有QString API的只读子集的UTF-16字符串的统一视图<",
+        "en_name": ">Unified view on UTF-16 strings with a read-only subset of the QString API<",
+        "key_id": 995
+    },
+    {
+        "cn_name": ">分层的有限状态机<",
+        "en_name": ">Hierarchical finite state machine<",
+        "key_id": 996
+    },
+    {
+        "cn_name": ">QByteArrayMatcher的编译时版本<",
+        "en_name": ">Compile-time version of QByteArrayMatcher<",
+        "key_id": 997
+    },
+    {
+        "cn_name": ">拥有对共享指针的强引用<",
+        "en_name": ">Holds a strong reference to a shared pointer<",
+        "key_id": 998
+    },
+    {
+        "cn_name": ">QObject::blockSignals()的异常安全的包装器类<",
+        "en_name": ">Exception-safe wrapper around QObject::blockSignals()<",
+        "key_id": 999
+    },
+    {
+        "cn_name": ">基于Qt信号的转换<",
+        "en_name": ">Transition based on a Qt signal<",
+        "key_id": 1000
+    },
+    {
+        "cn_name": ">使用整数精度在平面中定义一个矩形<",
+        "en_name": ">Defines a rectangle in the plane using integer precision<",
+        "key_id": 1001
+    },
+    {
+        "cn_name": ">使用浮点数精度在平面中定义一个矩形<",
+        "en_name": ">Defines a rectangle in the plane using floating point precision<",
+        "key_id": 1002
+    },
+    {
+        "cn_name": ">使用正则表达式的模式匹配<",
+        "en_name": ">Pattern matching using regular expressions<",
+        "key_id": 1003
+    },
+    {
+        "cn_name": ">系统信号量的通用计数<",
+        "en_name": ">General counting system semaphore<",
+        "key_id": 1004
+    },
+    {
+        "cn_name": ">包含对静态插件实例及其元数据的引用的结构<",
+        "en_name": ">Struct containing a reference to a static plugin instance together with its meta data<",
+        "key_id": 1005
+    },
+    {
+        "cn_name": ">支持对另一个模型和视图之间传递的数据所进行的排序和过滤操作<",
+        "en_name": ">Support for sorting and filtering data passed between another model and a view<",
+        "key_id": 1006
+    },
+    {
+        "cn_name": ">使用整数精度来定义二维对象的大小<",
+        "en_name": ">Defines the size of a two-dimensional object using integer point precision<",
+        "key_id": 1007
+    },
+    {
+        "cn_name": ">使用浮点数精度来定义二维对象的大小<",
+        "en_name": ">Defines the size of a two-dimensional object using floating point precision<",
+        "key_id": 1008
+    },
+    {
+        "cn_name": ">描述了隐式共享对象的指针<",
+        "en_name": ">Represents a pointer to an implicitly shared object<",
+        "key_id": 1009
+    },
+    {
+        "cn_name": ">QVariant中容器的可迭代接口<",
+        "en_name": ">Iterable interface for a container in a QVariant<",
+        "key_id": 1010
+    },
+    {
+        "cn_name": ">连续的动画组<",
+        "en_name": ">Sequential group of animations<",
+        "key_id": 1011
+    },
+    {
+        "cn_name": ">调用QSemaphore::release()的异常安全延迟<",
+        "en_name": ">Exception-safe deferral of a QSemaphore::release() call<",
+        "key_id": 1012
+    },
+    {
+        "cn_name": ">在变形时重置变量为先前的值<",
+        "en_name": ">Resets a variable to its previous value on destruction<",
+        "key_id": 1013
+    },
+    {
+        "cn_name": ">为在范围内调用函数提供了范围保护<",
+        "en_name": ">Provides a scope guard for calling a function at the of a scope<",
+        "key_id": 1014
+    },
+    {
+        "cn_name": ">线程之间的访问序列化<",
+        "en_name": ">Access serialization between threads<",
+        "key_id": 1015
+    },
+    {
+        "cn_name": ">有关于枚举器的元数据<",
+        "en_name": ">Meta-data about an enumerator<",
+        "key_id": 1016
+    },
+    {
+        "cn_name": ">有关于成员函数的元数据<",
+        "en_name": ">Meta-data about a member function<",
+        "key_id": 1017
+    },
+    {
+        "cn_name": ">有关于Qt对象的元数据信息<",
+        "en_name": ">Contains meta-information about Qt objects<",
+        "key_id": 1018
+    },
+    {
+        "cn_name": ">有关于属性的元数据<",
+        "en_name": ">Meta-data about a property<",
+        "key_id": 1019
+    },
+    {
+        "cn_name": ">管理元对象系统中的命名类型<",
+        "en_name": ">Manages named types in the meta-object system<",
+        "key_id": 1020
+    },
+    {
+        "cn_name": ">定义矩形的四个边距<",
+        "en_name": ">Defines the four margins of a rectangle<",
+        "key_id": 1021
+    },
+    {
+        "cn_name": ">用于报告JSON解析过程中的错误<",
+        "en_name": ">Used to report errors during JSON parsing<",
+        "key_id": 1022
+    },
+    {
+        "cn_name": ">返回先前活动子状态的方法<",
+        "en_name": ">Means of returning to a previously active substate<",
+        "key_id": 1023
+    },
+    {
+        "cn_name": ">关于类的其他信息<",
+        "en_name": ">Additional information about a class<",
+        "key_id": 1024
+    },
+    {
+        "cn_name": ">关于日志消息的其他信息<",
+        "en_name": ">Additional information about a log message<",
+        "key_id": 1025
+    },
+    {
+        "cn_name": ">封装了JSON中的值<",
+        "en_name": ">Encapsulates a value in JSON<",
+        "key_id": 1026
+    },
+    {
+        "cn_name": ">QCborMap::ConstIterator类提供了关于QCborMap的STL风格的常量迭代器<",
+        "en_name": ">QCborMap::ConstIterator class provides an STL-style const iterator for QCborMap<",
+        "key_id": 1027
+    },
+    {
+        "cn_name": ">QCborMap::Iterator类提供了关于QCborMap的STL风格的非常量迭代器<",
+        "en_name": ">QCborMap::Iterator class provides an STL-style non-const iterator for QCborMap<",
+        "key_id": 1028
+    },
+    {
+        "cn_name": ">接收原生事件的接口，例如MSG或XCB的事件结构<",
+        "en_name": ">Interface for receiving native events, such as MSG or XCB event structs<",
+        "key_id": 1029
+    },
+    {
+        "cn_name": ">QVariant中关联容器的可迭代接口<",
+        "en_name": ">Iterable interface for an associative container in a QVariant<",
+        "key_id": 1030
+    },
+    {
+        "cn_name": ">独立于平台的int原子操作<",
+        "en_name": ">Platform-independent atomic operations on int<",
+        "key_id": 1031
+    },
+    {
+        "cn_name": ">独立于平台的整数原子操作<",
+        "en_name": ">Platform-independent atomic operations on integers<",
+        "key_id": 1032
+    },
+    {
+        "cn_name": ">模板类，它为指针提供了独立于平台的原子操作<",
+        "en_name": ">Template class that provides platform-independent atomic operations on pointers<",
+        "key_id": 1033
+    },
+    {
+        "cn_name": ">独立于平台的大端整数<",
+        "en_name": ">Platform-independent big-endian integers<",
+        "key_id": 1034
+    },
+    {
+        "cn_name": ">包含了整个Qt库中使用到的各种标识符<",
+        "en_name": ">Contains miscellaneous identifiers used throughout the Qt library<",
+        "key_id": 1035
+    },
+    {
+        "cn_name": ">16位的Unicode字符<",
+        "en_name": ">16-bit Unicode character<",
+        "key_id": 1036
+    },
+    {
+        "cn_name": ">可以跨线程传输的异常的基类<",
+        "en_name": ">Base class for exceptions that can transferred across threads<",
+        "key_id": 1037
+    },
+    {
+        "cn_name": ">描述了指向显式共享对象的指针<",
+        "en_name": ">Represents a pointer to an explicitly shared object<",
+        "key_id": 1038
+    },
+    {
+        "cn_name": ">进入和离开事件循环的方法<",
+        "en_name": ">Means of entering and leaving an event loop<",
+        "key_id": 1039
+    },
+    {
+        "cn_name": ">QFlags的数据类型的辅助类<",
+        "en_name": ">Helper data type for QFlags<",
+        "key_id": 1040
+    },
+    {
+        "cn_name": ">存储枚举值的或操作组合的类型安全方法<",
+        "en_name": ">Type-safe way of storing OR-combinations of enum values<",
+        "key_id": 1041
+    },
+    {
+        "cn_name": ">存储动态分配对象的指针，并在析构销毁时删除它<",
+        "en_name": ">Stores a pointer to a dynamically allocated object, and deletes it upon destruction<",
+        "key_id": 1042
+    },
+    {
+        "cn_name": ">存储动态分配对象数组的指针，并在析构销毁时删除它<",
+        "en_name": ">Stores a pointer to a dynamically allocated array of objects, and deletes it upon destruction<",
+        "key_id": 1043
+    },
+    {
+        "cn_name": ">关于正则表达式对象与字符串的全局匹配结果的迭代器<",
+        "en_name": ">Iterator on the results of a global match of a QRegularExpression object against a string<",
+        "key_id": 1044
+    },
+    {
+        "cn_name": ">正则表达式对象与字符串的匹配结果<",
+        "en_name": ">The results of a matching a QRegularExpression against a string<",
+        "key_id": 1045
+    },
+    {
+        "cn_name": ">简化读访问的读写锁的加锁和解锁的便捷类<",
+        "en_name": ">Convenience class that simplifies locking and unlocking read-write locks for read access<",
+        "key_id": 1046
+    },
+    {
+        "cn_name": ">允许从高质量随机数生成器所获取的随机值<",
+        "en_name": ">Allows one to obtain random values from a high-quality Random Number Generator<",
+        "key_id": 1047
+    },
+    {
+        "cn_name": ">允许从高质量随机数生成器所获取的64位随机值<",
+        "en_name": ">Allows one to obtain 64-bit random values from a high-quality, seed-less Random Number Generator<",
+        "key_id": 1048
+    },
+    {
+        "cn_name": ">提供了QObject保护指针的模板类<",
+        "en_name": ">Template class that provides guarded pointers to QObject<",
+        "key_id": 1049
+    },
+    {
+        "cn_name": ">使用整数精度在平面中定义一个点<",
+        "en_name": ">Defines a point in the plane using integer precision<",
+        "key_id": 1050
+    },
+    {
+        "cn_name": ">使用浮点数精度在平面中定义一个点<",
+        "en_name": ">Defines a point in the plane using floating point precision<",
+        "key_id": 1051
+    },
+    {
+        "cn_name": ">信号量的通用计数<",
+        "en_name": ">General counting semaphore<",
+        "key_id": 1052
+    },
+    {
+        "cn_name": ">暂停序列动画组<",
+        "en_name": ">Pause for QSequentialAnimationGroup<",
+        "key_id": 1053
+    },
+    {
+        "cn_name": ">并行动画组<",
+        "en_name": ">Parallel group of animations<",
+        "key_id": 1054
+    },
+    {
+        "cn_name": ">有关操作系统版本的信息<",
+        "en_name": ">Information about the operating system version<",
+        "key_id": 1055
+    },
+    {
+        "cn_name": ">观察多个对象的生命周期<",
+        "en_name": ">Watches the lifetime of multiple QObjects<",
+        "key_id": 1056
+    },
+    {
+        "cn_name": ">简化加锁和解锁互斥量的便捷类<",
+        "en_name": ">Convenience class that simplifies locking and unlocking mutexes<",
+        "key_id": 1057
+    },
+    {
+        "cn_name": ">提供了多值哈希表的便捷哈希子类<",
+        "en_name": ">Convenience QHash subclass that provides multi-valued hashes<",
+        "key_id": 1058
+    },
+    {
+        "cn_name": ">使用MIME类型字符串描述了文件或数据的类型<",
+        "en_name": ">Describes types of file or data, represented by a MIME type string<",
+        "key_id": 1059
+    },
+    {
+        "cn_name": ">维护了MIME类型的数据库<",
+        "en_name": ">Maintains a database of MIME types<",
+        "key_id": 1060
+    },
+    {
+        "cn_name": ">用于记录有关其MIME类型的信息的数据容器<",
+        "en_name": ">Container for data that records information about its MIME type<",
+        "key_id": 1061
+    },
+    {
+        "cn_name": ">生成基于哈希散列的消息验证码的方法<",
+        "en_name": ">Way to generate hash-based message authentication codes<",
+        "key_id": 1062
+    },
+    {
+        "cn_name": ">使用文件锁定进程<",
+        "en_name": ">Locking between processes using a file<",
+        "key_id": 1063
+    },
+    {
+        "cn_name": ">描述了日志记录基础结构中的列表或区域<",
+        "en_name": ">Represents a category, or 'area' in the logging infrastructure<",
+        "key_id": 1064
+    },
+    {
+        "cn_name": ">在各种语言之间转换数字及其字符串的表现形式<",
+        "en_name": ">Converts between numbers and their string representations in various languages<",
+        "key_id": 1065
+    },
+    {
+        "cn_name": ">链表的Java风格的常量迭代器<",
+        "en_name": ">Java-style const iterator for QLinkedList<",
+        "key_id": 1066
+    },
+    {
+        "cn_name": ">提供了链表的模板类<",
+        "en_name": ">Template class that provides linked lists<",
+        "key_id": 1067
+    },
+    {
+        "cn_name": ">使用整数精度的二维向量<",
+        "en_name": ">Two-dimensional vector using integer precision<",
+        "key_id": 1068
+    },
+    {
+        "cn_name": ">使用浮点数精度的二维向量<",
+        "en_name": ">Two-dimensional vector using floating point precision<",
+        "key_id": 1069
+    },
+    {
+        "cn_name": ">8位的ASCII/Latin-1的字符<",
+        "en_name": ">8-bit ASCII/Latin-1 character<",
+        "key_id": 1070
+    },
+    {
+        "cn_name": ">源模型未修改的代理模型<",
+        "en_name": ">Proxies its source model unmodified<",
+        "key_id": 1071
+    },
+    {
+        "cn_name": ">独立于平台的小端整数<",
+        "en_name": ">Platform-independent little-endian integers<",
+        "key_id": 1072
+    },
+    {
+        "cn_name": ">跟踪视图选定元素项<",
+        "en_name": ">Keeps track of a view's selected items<",
+        "key_id": 1073
+    },
+    {
+        "cn_name": ">关于模型中已选元素项的管理信息<",
+        "en_name": ">Manages information about selected items in a model<",
+        "key_id": 1074
+    },
+    {
+        "cn_name": ">关联容器中键/值对的迭代器<",
+        "en_name": ">Iterator over the key/value pairs of an associative container<",
+        "key_id": 1075
+    },
+    {
+        "cn_name": ">保存一个字节序列，可以在字节数组中快速匹配<",
+        "en_name": ">Holds a sequence of bytes that can be quickly matched in a byte array<",
+        "key_id": 1076
+    },
+    {
+        "cn_name": ">用于保存CBOR元素数组<",
+        "en_name": ">Used to hold an array of CBOR elements<",
+        "key_id": 1077
+    },
+    {
+        "cn_name": ">保存解析或验证CBOR流时发现的错误条件<",
+        "en_name": ">Holds the error condition found while parsing or validating a CBOR stream<",
+        "key_id": 1078
+    },
+    {
+        "cn_name": ">用于保存CBOR中可描述的关联容器<",
+        "en_name": ">Used to hold an associative container representable in CBOR<",
+        "key_id": 1079
+    },
+    {
+        "cn_name": ">用于QCborValue上报解析错误<",
+        "en_name": ">Used by QCborValue to report a parsing error<",
+        "key_id": 1080
+    },
+    {
+        "cn_name": ">简单的CBOR流解码器，可在QByteArray或QIODevice上运行操作<",
+        "en_name": "Simple CBOR stream decoder, operating on either a QByteArray or QIODevice<",
+        "key_id": 1081
+    },
+    {
+        "cn_name": ">简单的CBOR流译码器，可在单向流上运行操作<",
+        "en_name": ">Simple CBOR encoder operating on a one-way stream<",
+        "key_id": 1082
+    },
+    {
+        "cn_name": ">包含子对象事件的事件参数<",
+        "en_name": ">Contains event parameters for child object events<",
+        "key_id": 1083
+    },
+    {
+        "cn_name": ">根据本地化的排序规则算法来比较字符串<",
+        "en_name": ">Compares strings according to a localized collation algorithm<",
+        "key_id": 1084
+    },
+    {
+        "cn_name": ">可用于加速字符串处理<",
+        "en_name": ">Can be used to speed up string collation<",
+        "key_id": 1085
+    },
+    {
+        "cn_name": ">定义了可能的命令行选项<",
+        "en_name": ">Defines a possible command-line option<",
+        "key_id": 1086
+    },
+    {
+        "cn_name": ">处理命令行选项的方法<",
+        "en_name": ">Means for handling the command line options<",
+        "key_id": 1087
+    },
+    {
+        "cn_name": ">提供了连续缓存的模板类<",
+        "en_name": ">Template class that provides a contiguous cache<",
+        "key_id": 1088
+    },
+    {
+        "cn_name": ">没有UI的Qt应用程序的事件循环<",
+        "en_name": ">Event loop for Qt applications without UI<",
+        "key_id": 1089
+    },
+    {
+        "cn_name": ">生成加密哈希散列的方法<",
+        "en_name": ">Way to generate cryptographic hashes<",
+        "key_id": 1090
+    },
+    {
+        "cn_name": ">标明了未来的最后期限<",
+        "en_name": "p>Marks a deadline in the future<",
+        "key_id": 1091
+    },
+    {
+        "cn_name": ">包含动态属性更改事件的事件参数<",
+        "en_name": ">Contains event parameters for dynamic property change events<",
+        "key_id": 1092
+    },
+    {
+        "cn_name": ">用于控制动画的缓和曲线<",
+        "en_name": ">Easing curves for controlling animation<",
+        "key_id": 1093
+    },
+    {
+        "cn_name": ">一个基类，允许为已由共享指针管理的对象获取QSharedPointer<",
+        "en_name": ">A base class that allows obtaining a QSharedPointer for an object already managed by a shared pointer<",
+        "key_id": 1094
+    },
+    {
+        "cn_name": ">所有事件类的基类。事件对象包含事件参数。<",
+        "en_name": ">The base class of all event classes. Event objects contain event parameters<",
+        "key_id": 1095
+    },
+    {
+        "cn_name": ">在不再需要时退出事件循环的方法<",
+        "en_name": ">Means to quit an event loop when it is no longer needed<",
+        "key_id": 1096
+    },
+    {
+        "cn_name": ">Qt事件中的特定对象转换<",
+        "en_name": ">QObject-specific transition for Qt events<",
+        "key_id": 1097
+    },
+    {
+        "cn_name": ">允许通过信号和槽函数来监视QFuture<",
+        "en_name": ">Allows monitoring a QFuture using signals and slots<",
+        "key_id": 1098
+    },
+    {
+        "cn_name": ">用于参数编解码的内部辅助类<",
+        "en_name": ">Internal helper class for marshalling arguments<",
+        "key_id": 1099
+    },
+    {
+        "cn_name": ">关于模型中已选元素项范围的管理信息<",
+        "en_name": ">Manages information about a range of selected items in a model<",
+        "key_id": 1100
+    },
+    {
+        "cn_name": ">关于US-ASCII/Latin-1编码的字符串文字的简单包装类<",
+        "en_name": ">Thin wrapper around an US-ASCII/Latin-1 encoded string literal<",
+        "key_id": 1101
+    },
+    {
+        "cn_name": ">所有其他Qt模块都依赖于此模块。要包含模块中各类的定义，请使用如下指令：<",
+        "en_name": ">All other Qt modules rely on this module. To include the definitions of the module's classes, use the following directive:<",
+        "key_id": 1102
+    },
+    {
+        "cn_name": "<p>若你使用 <a href=\"../qmake/qmake-manual.html\">qmake</a> 来编译你的工程项目，, <a href=\"qtcore-index.html\">Qt核心模块</a> 默认已被包含。</p>",
+        "en_name": "<p>If you use <a href=\"../qmake/qmake-manual.html\">qmake</a> to build your projects, <a href=\"qtcore-index.html\">Qt核心</a> is included by default.</p>",
+        "key_id": 1103
     }
 ]
