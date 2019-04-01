@@ -7,6 +7,8 @@ namespace Ui {
 class CEn2CnKeyForm;
 }
 
+class QSortFilterProxyModel;
+
 class CEn2CnKeyForm : public QWidget
 {
 Q_OBJECT
@@ -28,6 +30,8 @@ private slots:
 
     void OnKeyClicked(const QModelIndex& index);
 
+	void OnSearchTextEdited(const QString& strText);
+
 private:
     void InitAllControl();
     void ClearListView();
@@ -36,6 +40,8 @@ private:
 
 private:
     Ui::CEn2CnKeyForm *ui;
+
+	QSortFilterProxyModel* m_pProxyModel;
 };
 
 #endif // EN2CNKEYFORM_H

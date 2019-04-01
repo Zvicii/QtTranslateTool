@@ -122,6 +122,10 @@ QVariant CEn2CnTableModel::data(const QModelIndex &index, int role /*= Qt::Displ
     {
         return keyinfo.GetCnKey();
     }
+	else if (KeySearchRole == role)
+	{
+		return keyinfo.GetEnKey() + "/n" + keyinfo.GetCnKey();
+	}
 
 	if (Qt::DisplayRole == role)
 	{

@@ -5453,5 +5453,230 @@
         "cn_name": "<p>若你使用 <a href=\"../qmake/qmake-manual.html\">qmake</a> 来编译你的工程项目，, <a href=\"qtcore-index.html\">Qt核心模块</a> 默认已被包含。</p>",
         "en_name": "<p>If you use <a href=\"../qmake/qmake-manual.html\">qmake</a> to build your projects, <a href=\"qtcore-index.html\">Qt核心</a> is included by default.</p>",
         "key_id": 1103
+    },
+    {
+        "cn_name": ">事件类 | Qt核心模块 5.12<",
+        "en_name": ">Event Classes | Qt Core 5.12<",
+        "key_id": 1104
+    },
+    {
+        "cn_name": "<p>这些 <a href=\"qtcore-index.html\">Qt核心模块</a> 类用于创建和处理事件。</p>",
+        "en_name": "<p>These <a href=\"qtcore-index.html\">Qt核心</a> classes are used to create and handle events.</p>",
+        "key_id": 1105
+    },
+    {
+        "cn_name": "<p>欲知更多详情，可参见 <a href=\"eventsandfilters.html\">事件系统</a> 页。</p>",
+        "en_name": "<p>For more information see the <a href=\"eventsandfilters.html\">Event System</a> page.</p>",
+        "key_id": 1106
+    },
+    {
+        "cn_name": "<p>欲知更多详情，可参见 <",
+        "en_name": "<p>For more information see the <",
+        "key_id": 1107
+    },
+    {
+        "cn_name": ">事件系统<",
+        "en_name": ">Event System<",
+        "key_id": 1108
+    },
+    {
+        "cn_name": ">当增加、删除或改变动作时生成的事件<",
+        "en_name": ">Event that is generated when a QAction is added, removed, or changed<",
+        "key_id": 1109
+    },
+    {
+        "cn_name": ">包含描述了关闭事件的参数<",
+        "en_name": ">Contains parameters that describe a close event<",
+        "key_id": 1110
+    },
+    {
+        "cn_name": ">包含描述了上下文菜单事件的参数<",
+        "en_name": ">Contains parameters that describe a context menu event<",
+        "key_id": 1111
+    },
+    {
+        "cn_name": ">包含描述了进入事件的参数<",
+        "en_name": "Contains parameters that describe an enter event<",
+        "key_id": 1112
+    },
+    {
+        "cn_name": ">包含公开事件的事件参数<",
+        "en_name": ">Contains event parameters for expose events<",
+        "key_id": 1113
+    },
+    {
+        "cn_name": ">包含部件聚焦事件的事件参数<",
+        "en_name": ">Contains event parameters for widget focus events<",
+        "key_id": 1114
+    },
+    {
+        "cn_name": ">包含描述了鼠标事件的参数<",
+        "en_name": ">Contains parameters that describe a mouse event<",
+        "key_id": 1115
+    },
+    {
+        "cn_name": ">包含鼠标移动事件的事件参数<",
+        "en_name": ">Contains event parameters for move events<",
+        "key_id": 1116
+    },
+    {
+        "cn_name": ">包含描述了手势事件的参数<",
+        "en_name": ">Contains parameters that describe a gesture event<",
+        "key_id": 1117
+    },
+    {
+        "cn_name": ">包含绘图事件的事件参数<",
+        "en_name": ">Contains event parameters for paint events<",
+        "key_id": 1118
+    },
+    {
+        "cn_name": ">包含描述了鼠标滚动事件的参数<",
+        "en_name": ">Contains parameters that describe a wheel event<",
+        "key_id": 1119
+    },
+    {
+        "cn_name": ">包含了描述屏幕触击事件的参数<",
+        "en_name": ">Contains parameters that describe a touch event<",
+        "key_id": 1120
+    },
+    {
+        "cn_name": ">包含了重置大小事件的事件参数<",
+        "en_name": ">Contains event parameters for resize events<",
+        "key_id": 1121
+    },
+    {
+        "cn_name": ">用于生成键盘快捷键<",
+        "en_name": ">Used to create keyboard shortcuts<",
+        "key_id": 1122
+    },
+    {
+        "cn_name": ">窗口状态变化之前的窗口状态<",
+        "en_name": ">The window state before a window state change<",
+        "key_id": 1123
+    },
+    {
+        "cn_name": ">可用于处理“这是什么”文本中超链接的事件<",
+        "en_name": ">Event that can be used to handle hyperlinks in a \"What's This?\" text<",
+        "key_id": 1124
+    },
+    {
+        "cn_name": ">包含了描述Tablet事件的参数<",
+        "en_name": ">Contains parameters that describe a Tablet event<",
+        "key_id": 1125
+    },
+    {
+        "cn_name": ">用于在状态栏中显示消息的事件<",
+        "en_name": ">Event that is used to show messages in a status bar<",
+        "key_id": 1126
+    },
+    {
+        "cn_name": ">当显示部件时发送的事件<",
+        "en_name": ">Event that is sent when a widget is shown<",
+        "key_id": 1127
+    },
+    {
+        "cn_name": ">当用户按下键盘组合键时才生成的事件<",
+        "en_name": ">Event which is generated when the user presses a key combination<",
+        "key_id": 1128
+    },
+    {
+        "cn_name": ">当滚动区域准备滚动时才发送<",
+        "en_name": ">Sent in preparation of scrolling<",
+        "key_id": 1129
+    },
+    {
+        "cn_name": ">正在滚动时才发送<",
+        "en_name": ">Sent when scrolling<",
+        "key_id": 1130
+    },
+    {
+        "cn_name": ">用于通知有关原生平台表面事件<",
+        "en_name": ">Used to notify about native platform surface events<",
+        "key_id": 1131
+    },
+    {
+        "cn_name": ">输入法事件的参数<",
+        "en_name": ">Parameters for input method events<",
+        "key_id": 1132
+    },
+    {
+        "cn_name": ">描述用户输入的事件的基类<",
+        "en_name": ">The base class for events that describe user input<",
+        "key_id": 1133
+    },
+    {
+        "cn_name": ">表示主图标拖动已开始<",
+        "en_name": ">Indicates that a main icon drag has begun<",
+        "key_id": 1134
+    },
+    {
+        "cn_name": ">在部件隐藏之后才发送的事件<",
+        "en_name": ">Event which is sent after a widget is hidden<",
+        "key_id": 1135
+    },
+    {
+        "cn_name": ">触发手势的描述<",
+        "en_name": ">The description of triggered gestures<",
+        "key_id": 1136
+    },
+    {
+        "cn_name": ">当拖放动作进入部件时才发送给部件的事件<",
+        "en_name": ">Event which is sent to a widget when a drag and drop action enters it<",
+        "key_id": 1137
+    },
+    {
+        "cn_name": ">当拖放动作离开部件时才发送给部件的事件<",
+        "en_name": ">Event that is sent to a widget when a drag and drop action leaves it<",
+        "key_id": 1138
+    },
+    {
+        "cn_name": ">拖放动作正在进行时才发送的事件<",
+        "en_name": ">Event which is sent while a drag and drop action is in progress<",
+        "key_id": 1139
+    },
+    {
+        "cn_name": ">拖放动作已完成后才发送的事件<",
+        "en_name": ">Event which is sent when a drag and drop action is completed<",
+        "key_id": 1140
+    },
+    {
+        "cn_name": ">标识与指尖设备设备一起使用的微信对象，例如标记的标记或手写笔<",
+        "en_name": ">Identifies a unique object, such as a tagged token or stylus, which is used with a pointing device<",
+        "key_id": 1141
+    },
+    {
+        "cn_name": ">当请求打开一个文件或URL链接时才发送的事件<",
+        "en_name": ">Event that will be sent when there is a request to open a file or a URL<",
+        "key_id": 1142
+    },
+    {
+        "cn_name": ">用于请求有关窗口小部件中特定点的有用帮助信息的事件<",
+        "en_name": ">Event that is used to request helpful information about a particular point in a widget<",
+        "key_id": 1143
+    },
+    {
+        "cn_name": ">状态机类 | Qt核心模块 5.12<",
+        "en_name": ">State Machine Classes | Qt Core 5.12<",
+        "key_id": 1144
+    },
+    {
+        "cn_name": "><a href=\"qtcore-index.html\">Qt核心模块</a> 类是 <a href=\"statemachine-api.html\">状态机框架的一部分。<",
+        "en_name": ">These <a href=\"qtcore-index.html\">Qt核心</a> classes are part of the <a href=\"statemachine-api.html\"> State Machine Framework<",
+        "key_id": 1145
+    },
+    {
+        "cn_name": ">状态机框架<",
+        "en_name": "> State Machine Framework<",
+        "key_id": 1146
+    },
+    {
+        "cn_name": ">键盘事件的转换<",
+        "en_name": ">Transition for key events<",
+        "key_id": 1147
+    },
+    {
+        "cn_name": ">鼠标事件的转换<",
+        "en_name": ">Transition for mouse events<",
+        "key_id": 1148
     }
 ]

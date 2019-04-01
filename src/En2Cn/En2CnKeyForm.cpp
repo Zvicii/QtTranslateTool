@@ -4,6 +4,7 @@
 #include <QtWidgets/qfiledialog.h>
 #include <QtCore/qfile.h>
 #include <QtCore/qtextstream.h>
+#include <QtCore/qsortfilterproxymodel.h>
 
 #include "En2CnManager.h"
 #include "En2CnTableModel.h"
@@ -12,6 +13,7 @@
 CEn2CnKeyForm::CEn2CnKeyForm(QWidget *parent) :
 QWidget(parent),
 ui(new Ui::CEn2CnKeyForm)
+, m_pProxyModel(nullptr)
 {
     ui->setupUi(this);
 
@@ -35,8 +37,13 @@ void CEn2CnKeyForm::InitAllControl()
 	connect(ui->pbtnTranslatePath, &QPushButton::clicked, this, &CEn2CnKeyForm::OnTranslatePathClicked);
 	connect(ui->pbtnTranslateAllPath, &QPushButton::clicked, this, &CEn2CnKeyForm::OnTranslateAllPathClicked);
     connect(ui->tableViewKey, &QTableView::clicked, this, &CEn2CnKeyForm::OnKeyClicked);
+	connect(ui->lineEditSearch, &QLineEdit::textEdited, this, &CEn2CnKeyForm::OnSearchTextEdited);
 
-    ui->tableViewKey->setModel(gEn2CnMgr->GetKeyModel());
+	m_pProxyModel = new QSortFilterProxyModel(this);
+	m_pProxyModel->setSourceModel(gEn2CnMgr->GetKeyModel());
+	m_pProxyModel->setFilterCaseSensitivity(Qt::CaseInsensitive);
+	m_pProxyModel->setSortRole(CEn2CnTableModel::KeySearchRole);
+    ui->tableViewKey->setModel(m_pProxyModel);
     ui->tableViewKey->setSelectionMode(QAbstractItemView::SingleSelection);
     ui->tableViewKey->setSelectionBehavior(QAbstractItemView::SelectRows);
 	ui->tableViewKey->horizontalHeader()->setSectionResizeMode(QHeaderView::ResizeToContents);
@@ -286,4 +293,14 @@ void CEn2CnKeyForm::TranslateFile(const QString& strFile)
 	outstream.setCodec("UTF-8");
 	outstream << strOldData;
 	newFile.close();
+}
+
+void CEn2CnKeyForm::OnSearchTextEdited(const QString& strText)
+{
+	if (strText == m_pProxyModel->filterRegExp().pattern())
+	{
+		return;
+	}
+
+	m_pProxyModel->setFilterRegExp(strText);
 }

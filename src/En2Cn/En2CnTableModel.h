@@ -17,7 +17,8 @@ public:
     {
         KeyIdRole           = Qt::UserRole+1,
         KeyEnNameRole,
-        KeyCnNameRole
+        KeyCnNameRole,
+		KeySearchRole,
     };
 
 	enum ETableColumn
