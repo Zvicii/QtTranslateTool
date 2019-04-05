@@ -5678,5 +5678,440 @@
         "cn_name": ">鼠标事件的转换<",
         "en_name": ">Transition for mouse events<",
         "key_id": 1148
+    },
+    {
+        "cn_name": "| Qt核心模块 5.12<",
+        "en_name": "| Qt Core 5.12<",
+        "key_id": 1149
+    },
+    {
+        "cn_name": ">QDate类 |",
+        "en_name": ">QDate Class |",
+        "key_id": 1150
+    },
+    {
+        "cn_name": ">这个 <a href=\"qdate.html\">QDate</a> 类提供了日期相关的函数。 <",
+        "en_name": ">The <a href=\"qdate.html\">QDate</a> class provides date functions. <",
+        "key_id": 1151
+    },
+    {
+        "cn_name": "<p>返回字符串格式的日期。这个格式 <i>format</i> 参数决定了结果字符串的格式。</p>",
+        "en_name": "<p>Returns the date as a string. The <i>format</i> parameter determines the format of the result string.</p>",
+        "key_id": 1152
+    },
+    {
+        "cn_name": "<p>若日期值无效，则返回一个空的字符串。</p>",
+        "en_name": "<p>If the datetime is invalid, an empty string will be returned.</p>",
+        "key_id": 1153
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个空日期。日期时间值是无效的。</p>",
+        "en_name": "<p>Constructs a null date. Null dates are invalid.</p>",
+        "key_id": 1154
+    },
+    {
+        "cn_name": "<p>构造函数，创建一个日期，其年月日分别为<i>y/i> <i>m</i>和<i>d</i>。</p>",
+        "en_name": "<p>Constructs a date with year <i>y</i>, month <i>m</i> and day <i>d</i>.</p>",
+        "key_id": 1155
+    },
+    {
+        "cn_name": "<p>若当前日期无效或者新日期超出范围时，则返回一个空日期。</p>",
+        "en_name": "<p>Returns a null date if the current date is invalid or the new date is out of range.</p>",
+        "key_id": 1156
+    },
+    {
+        "cn_name": "<p>若日期无效则返回0值。</p>",
+        "en_name": "<p>Returns 0 if the date is invalid.</p>",
+        "key_id": 1157
+    },
+    {
+        "cn_name": "<p>这些表达式可以使用如下格式：</p>",
+        "en_name": "<p>These expressions may be used for the format:</p>",
+        "key_id": 1158
+    },
+    {
+        "cn_name": "<p>从流 <i>in</i> 里面读取时间值到参数 <i>date</i>中。</p>",
+        "en_name": "<p>Reads a date from stream <i>in</i> into the <i>date</i>.</p>",
+        "key_id": 1159
+    },
+    {
+        "cn_name": "<p>把时间值 <i>date</i> 写入到流 <i>out</i>里面。</p>",
+        "en_name": "<p>Writes the <i>date</i> to stream <i>out</i>.</p>",
+        "key_id": 1160
+    },
+    {
+        "cn_name": "<p>若时间大于等于 <i>d</i>，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if this date is later than or equal to <i>d</i>; otherwise returns <code>false</code>.</p>",
+        "key_id": 1161
+    },
+    {
+        "cn_name": "<p>若时间大于 <i>d</i>，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if this date is later than <i>d</i>; otherwise returns false.</p>",
+        "key_id": 1162
+    },
+    {
+        "cn_name": "<p>若时间等于 <i>d</i>，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if this date is equal to <i>d</i>; otherwise returns false.</p>",
+        "key_id": 1163
+    },
+    {
+        "cn_name": "<p>若时间小于等于 <i>d</i>，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if this date is earlier than or equal to <i>d</i>; otherwise returns <code>false</code>.</p>",
+        "key_id": 1164
+    },
+    {
+        "cn_name": "<p>若时间小于 <i>d</i>，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if this date is earlier than <i>d</i>; otherwise returns false.</p>",
+        "key_id": 1165
+    },
+    {
+        "cn_name": "<p>若时间小不等于 <i>d</i>，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if this date is different from <i>d</i>; otherwise returns <code>false</code>.</p>",
+        "key_id": 1166
+    },
+    {
+        "cn_name": "<p>返回字符串形式的日期。这个格式 <i>format</i> 参数决定了字符串的格式。</p>",
+        "en_name": "<p>Returns the date as a string. The <i>format</i> parameter determines the format of the string.</p>",
+        "key_id": 1167
+    },
+    {
+        "cn_name": "<p>若日期有效则返回 <code>true</code> ；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if this date is valid; otherwise returns <code>false</code>.</p>",
+        "key_id": 1168
+    },
+    {
+        "cn_name": "<p>若日期为空，则返回 <code>true</code> ；否则则返回 <code>false</code>。空值日期是无效的。</p>",
+        "en_name": "<p>Returns <code>true</code> if the date is null; otherwise returns <code>false</code>. A null date is invalid.</p>",
+        "key_id": 1169
+    },
+    {
+        "cn_name": "<p>若指定年份 <i>year</i> 是闰年，则返回 <code>true</code> ；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if the specified <i>year</i> is a leap year; otherwise returns <code>false</code>.</p>",
+        "key_id": 1170
+    },
+    {
+        "cn_name": "<p>若任一日期无效则返回0值。</p>",
+        "en_name": "<p>Returns 0 if either date is invalid.</p>",
+        "key_id": 1171
+    },
+    {
+        "cn_name": "<p>返回当前日期所在年份的天数值(365或366)。</p>",
+        "en_name": "<p>Returns the number of days in the year (365 or 366) for this date.</p>",
+        "key_id": 1172
+    },
+    {
+        "cn_name": "<p>返回当前日期所在月份的天数值(28到31)。</p>",
+        "en_name": "<p>Returns the number of days in the month (28 to 31) for this date.</p>",
+        "key_id": 1173
+    },
+    {
+        "cn_name": "<p>返回当前日期在所在年份的第几天。(1到365或1到366闰年)。</p>",
+        "en_name": "<p>Returns the day of the year (1 to 365 or 366 on leap years) for this date.</p>",
+        "key_id": 1174
+    },
+    {
+        "cn_name": "<p>返回当前日期的星期几(1为星期一 到 7为星期日)。</p>",
+        "en_name": "<p>Returns the weekday (1 = Monday to 7 = Sunday) for this date.</p>",
+        "key_id": 1175
+    },
+    {
+        "cn_name": "<p>返回当前日期所在月份的几号(1到31)。</p>",
+        "en_name": "<p>Returns the day of the month (1 to 31) of this date.</p>",
+        "key_id": 1176
+    },
+    {
+        "cn_name": "<p>返回系统时钟报告的当前日期。</p>",
+        "en_name": "<p>Returns the current date, as reported by the system clock.</p>",
+        "key_id": 1177
+    },
+    {
+        "cn_name": "<p>以下样例演示了默认值：</p>",
+        "en_name": "<p>The following examples demonstrate the default values:</p>",
+        "key_id": 1178
+    },
+    {
+        "cn_name": "<p>若指定时间无效，则该 <a href=\"qdate.html\">QDate</a> 对象将被设置为无效值。</p>",
+        "en_name": "<p>If the specified date is invalid, the <a href=\"qdate.html\">QDate</a> object is set to be invalid.</p>",
+        "key_id": 1179
+    },
+    {
+        "cn_name": "<p>若日期无效，则返回一个空的字符串。</p>",
+        "en_name": "<p>If the date is invalid, an empty string will be returned.</p>",
+        "key_id": 1180
+    },
+    {
+        "cn_name": "<p>使用年月日 <i>year</i>, <i>month</i>和<i>day</i>来设置该日期。若日期有效则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Sets the date's <i>year</i>, <i>month</i>, and <i>day</i>. Returns <code>true</code> if the date is valid; otherwise returns <code>false</code>.</p>",
+        "key_id": 1181
+    },
+    {
+        "cn_name": "<p>若使用参数 <i>year</i>, <i>month</i>和<i>day</i> 来设置的指定日期有效，则返回 <code>true</code>；否则则返回 <code>false</code>。</p>",
+        "en_name": "<p>Returns <code>true</code> if the specified date (<i>year</i>, <i>month</i>, and <i>day</i>) is valid; otherwise returns <code>false</code>.</p>",
+        "key_id": 1182
+    },
+    {
+        "cn_name": "<h4 >有效日期范围 </h4>",
+        "en_name": "<h4 >Range of Valid Dates</h4>",
+        "key_id": 1183
+    },
+    {
+        "cn_name": "<p>返回从当前日期到传入参数 <i>d</i>之间的日期天数值 (若传入参数 <i>d</i> 早于当前日期则返回值为负数)。</p>",
+        "en_name": "<p>Returns the number of days from this date to <i>d</i> (which is negative if <i>d</i> is earlier than this date).</p>",
+        "key_id": 1184
+    },
+    {
+        "cn_name": "<p>将日期转换为儒略日。</p>",
+        "en_name": "<p>Converts the date to a Julian day.</p>",
+        "key_id": 1185
+    },
+    {
+        "cn_name": "<p>返回当前日期的年份。负数表示1 CE之前的年份，比如-44年就是公元前44年。</p>",
+        "en_name": "<p>Returns the year of this date. Negative numbers indicate years before 1 CE, such that year -44 is 44 BCE.</p>",
+        "key_id": 1186
+    },
+    {
+        "cn_name": "<p>返回当前日期所在一年中的星期数量 (1 到 53), 同时存储年份在传入参数 *<i>yearNumber</i> 中，除非传入参数 <i>yearNumber</i> 是个空值 (默认值是空值)。</p>",
+        "en_name": "<p>Returns the week number (1 to 53), and stores the year in *<i>yearNumber</i> unless <i>yearNumber</i> is null (the default).</p>",
+        "key_id": 1187
+    },
+    {
+        "cn_name": "<p>使用以下约定，返回当前日期中月份所对应的月份数字：</p>",
+        "en_name": "<p>Returns the number corresponding to the month of this date, using the following convention:</p>",
+        "key_id": 1188
+    },
+    {
+        "cn_name": "(不存在2月30号)",
+        "en_name": "(Feb 30 does not exist)",
+        "key_id": 1189
+    },
+    {
+        "cn_name": "(2004是个闰年)</span>",
+        "en_name": "(2004 is a leap year)</span>",
+        "key_id": 1190
+    },
+    {
+        "cn_name": "(2000是个闰年)</span>",
+        "en_name": "(2000 is a leap year)</span>",
+        "key_id": 1191
+    },
+    {
+        "cn_name": "(2006不是闰年)</span>",
+        "en_name": "(2006 is not a leap year)</span>",
+        "key_id": 1192
+    },
+    {
+        "cn_name": "(2100不是闰年)</span>",
+        "en_name": "(2100 is not a leap year)</span>",
+        "key_id": 1193
+    },
+    {
+        "cn_name": "(即使1202是公元前)</span>",
+        "en_name": "(even though 1202 is pre-Gregorian)</span>",
+        "key_id": 1194
+    },
+    {
+        "cn_name": "<p><b>注意： </b>此函数行为等同于 <",
+        "en_name": "<p><b>Note: </b>The behavior of this function is equivalent to <",
+        "key_id": 1195
+    },
+    {
+        "cn_name": "<p><b>注意： </b>在Qt 5.7版本之前，该函数是当做 非 <",
+        "en_name": "<p><b>Note: </b>In Qt versions prior to 5.7, this function is marked as non-",
+        "key_id": 1196
+    },
+    {
+        "cn_name": "<p>提取日期的年份、月份和天数，并且对应赋值给传入参数 *<i>year</i>, *<i>month</i>, and *<i>day</i>。指针可能为空值。</p>",
+        "en_name": "<p>Extracts the date's year, month, and day, and assigns them to *<i>year</i>, *<i>month</i>, and *<i>day</i>. The pointers may be null.</p>",
+        "key_id": 1197
+    },
+    {
+        "cn_name": "<p>对于未在以上格式中表示的任何字段，将使用以下默认值：</p>",
+        "en_name": "<p>For any field that is not represented in the format the following defaults are used:</p>",
+        "key_id": 1198
+    },
+    {
+        "cn_name": "<td >年份</td>",
+        "en_name": "<td >Year</td>",
+        "key_id": 1199
+    },
+    {
+        "cn_name": "<td >月份</td>",
+        "en_name": "<td >Month</td>",
+        "key_id": 1200
+    },
+    {
+        "cn_name": "<td >日</td>",
+        "en_name": "<td >Day</td>",
+        "key_id": 1201
+    },
+    {
+        "cn_name": "<p>返回由给定的格式 <i>format</i>且有字符串<i>/string</i>描述的日期 <a href=\"qdate.html\">QDate</a> 。若无法解析字符串，则返回的无效的日期。</p>",
+        "en_name": "<p>Returns the <a href=\"qdate.html\">QDate</a> represented by the <i>string</i>, using the <i>format</i> given, or an invalid date if the string cannot be parsed.</p>",
+        "key_id": 1202
+    },
+    {
+        "cn_name": "<p>将儒略日 <i>jd</i> 转换为日期<a href=\"qdate.html\">QDate</a>。</p>",
+        "en_name": "<p>Converts the Julian day <i>jd</i> to a <a href=\"qdate.html\">QDate</a>.</p>",
+        "key_id": 1203
+    },
+    {
+        "cn_name": "<p>若指定的日期无效，则不会设置日期，并且 <a href=\"qdate.html#isValid\">isValid</a>() 将返回 <code>false</code>。</p>",
+        "en_name": "<p>If the specified date is invalid, the date is not set and <a href=\"qdate.html#isValid\">isValid</a>() returns <code>false</code>.</p>",
+        "key_id": 1204
+    },
+    {
+        "cn_name": "<p><b>警告:</b> 年份1到99将被解释为原来值。0年份是无效的。</p>",
+        "en_name": "<p><b>Warning:</b> Years 1 to 99 are interpreted as is. Year 0 is invalid.</p>",
+        "key_id": 1205
+    },
+    {
+        "cn_name": ">没有用0前填充的数字天数 (1 to 31)<",
+        "en_name": ">the day as number without a leading zero (1 to 31)<",
+        "key_id": 1206
+    },
+    {
+        "cn_name": ">有用0前填充的数字天数 (01 to 31)<",
+        "en_name": ">the day as number with a leading zero (01 to 31)<",
+        "key_id": 1207
+    },
+    {
+        "cn_name": ">没有用0前填充的数字月份 (1 to 12)<",
+        "en_name": ">the month as number without a leading zero (1 to 12)<",
+        "key_id": 1208
+    },
+    {
+        "cn_name": ">有用0前填充的数字月份 (01 to 12)<",
+        "en_name": ">the month as number with a leading zero (01 to 12)<",
+        "key_id": 1209
+    },
+    {
+        "cn_name": ">用两位数字(00到99)表示的年份<",
+        "en_name": ">the year as two digit number (00 to 99)<",
+        "key_id": 1210
+    },
+    {
+        "cn_name": ">用四位数字表示的年份。若年份是负数，则在年份前面另外添加减号。<",
+        "en_name": ">the year as four digit number. If the year is negative, a minus sign is prepended in addition.<",
+        "key_id": 1211
+    },
+    {
+        "cn_name": ">缩写的本地化的星期名称 (e.g&#x2e; 'Mon' to 'Sun')。 使用系统区域设置来本地化该名称, i.e&#x2e; <",
+        "en_name": ">the abbreviated localized day name (e.g&#x2e; 'Mon' to 'Sun'). Uses the system locale to localize the name, i.e&#x2e; <",
+        "key_id": 1212
+    },
+    {
+        "cn_name": ">全部的本地化的星期名称 (e.g&#x2e; 'Monday' to 'Sunday')。使用系统区域设置来本地化该名称, i.e&#x2e; <",
+        "en_name": ">the long localized day name (e.g&#x2e; 'Monday' to 'Sunday'). Uses the system locale to localize the name, i.e&#x2e; <",
+        "key_id": 1213
+    },
+    {
+        "cn_name": ">缩写的本地化的月份名称 (e.g&#x2e; 'Jan' to 'Dec')。 使用系统区域设置来本地化该名称, i.e&#x2e; <",
+        "en_name": ">the abbreviated localized month name (e.g&#x2e; 'Jan' to 'Dec'). Uses the system locale to localize the name, i.e&#x2e; <",
+        "key_id": 1214
+    },
+    {
+        "cn_name": ">全部的本地化的月份名称 (e.g&#x2e; 'January' to 'December')。使用系统区域设置来本地化该名称, i.e&#x2e; <",
+        "en_name": ">the long localized month name (e.g&#x2e; 'January' to 'December'). Uses the system locale to localize the name, i.e&#x2e; <",
+        "key_id": 1215
+    },
+    {
+        "cn_name": ">没有用0前填充的数字天数 (1 to 31)<",
+        "en_name": ">The day as a number without a leading zero (1 to 31)<",
+        "key_id": 1216
+    },
+    {
+        "cn_name": ">有用0前填充的数字天数 (01 to 31)<",
+        "en_name": ">The day as a number with a leading zero (01 to 31)<",
+        "key_id": 1217
+    },
+    {
+        "cn_name": ">没有用0前填充的数字月份 (1 to 12)<",
+        "en_name": ">The month as a number without a leading zero (1 to 12)<",
+        "key_id": 1218
+    },
+    {
+        "cn_name": ">有用0前填充的数字月份 (01 to 12)<",
+        "en_name": ">The month as a number with a leading zero (01 to 12)<",
+        "key_id": 1219
+    },
+    {
+        "cn_name": ">用两位数字(00到99)表示的年份<",
+        "en_name": ">The year as two digit number (00 to 99)<",
+        "key_id": 1220
+    },
+    {
+        "cn_name": ">用四位数字表示的年份。若年份是负数，则在年份前面另外添加减号。<",
+        "en_name": ">The year as four digit number. If the year is negative, a minus sign is prepended in addition.<",
+        "key_id": 1221
+    },
+    {
+        "cn_name": ">缩写的本地化的星期名称 (e.g&#x2e; 'Mon' to 'Sun')。 使用系统区域设置来本地化该名称, i.e&#x2e; <",
+        "en_name": ">The abbreviated localized day name (e.g&#x2e; 'Mon' to 'Sun'). Uses the system locale to localize the name, i.e&#x2e; <",
+        "key_id": 1222
+    },
+    {
+        "cn_name": ">全部的本地化的星期名称 (e.g&#x2e; 'Monday' to 'Sunday')。使用系统区域设置来本地化该名称, i.e&#x2e; <",
+        "en_name": ">The long localized day name (e.g&#x2e; 'Monday' to 'Sunday'). Uses the system locale to localize the name, i.e&#x2e; <",
+        "key_id": 1223
+    },
+    {
+        "cn_name": ">缩写的本地化的月份名称 (e.g&#x2e; 'Jan' to 'Dec')。 使用系统区域设置来本地化该名称, i.e&#x2e; <",
+        "en_name": ">The abbreviated localized month name (e.g&#x2e; 'Jan' to 'Dec'). Uses the system locale to localize the name, i.e&#x2e; <",
+        "key_id": 1224
+    },
+    {
+        "cn_name": ">全部的本地化的月份名称 (e.g&#x2e; 'January' to 'December')。使用系统区域设置来本地化该名称, i.e&#x2e; <",
+        "en_name": ">The long localized month name (e.g&#x2e; 'January' to 'December'). Uses the system locale to localize the name, i.e&#x2e; <",
+        "key_id": 1225
+    },
+    {
+        "cn_name": "<p>可以使用以下表达式：</p>",
+        "en_name": "<p>These expressions may be used:</p>",
+        "key_id": 1226
+    },
+    {
+        "cn_name": ">没有用0前填充的数字月份 (1 to 12)<",
+        "en_name": ">the month as number without a leading zero (1-12)<",
+        "key_id": 1227
+    },
+    {
+        "cn_name": ">有用0前填充的数字月份 (01 to 12)<",
+        "en_name": ">the month as number with a leading zero (01-12)<",
+        "key_id": 1228
+    },
+    {
+        "cn_name": ">用两位数字(00到99)表示的年份<",
+        "en_name": ">the year as two digit number (00-99)<",
+        "key_id": 1229
+    },
+    {
+        "cn_name": ">用四位数字表示的年份<",
+        "en_name": ">the year as four digit number<",
+        "key_id": 1230
+    },
+    {
+        "cn_name": ">没有用0前填充的分钟 (0到59)<",
+        "en_name": ">the minute without a leading zero (0 to 59)<",
+        "key_id": 1231
+    },
+    {
+        "cn_name": ">有用0前填充的分钟 (00到59)<",
+        "en_name": ">the minute with a leading zero (00 to 59)<",
+        "key_id": 1232
+    },
+    {
+        "cn_name": ">没有用0前填充的秒 (0到59)<",
+        "en_name": ">the whole second without a leading zero (0 to 59)<",
+        "key_id": 1233
+    },
+    {
+        "cn_name": ">有用0前填充的秒 (00到59)<",
+        "en_name": ">the whole second with a leading zero where applicable (00 to 59)<",
+        "key_id": 1234
+    },
+    {
+        "cn_name": "<p>若当前日期时间是无效的，则返回一个无效的日期时间。</p>",
+        "en_name": "<p>If this datetime is invalid, an invalid datetime will be returned.</p>",
+        "key_id": 1235
     }
 ]
